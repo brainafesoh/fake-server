@@ -1,74 +1,757 @@
 {
-  "users": [
+  "articles": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "id": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
+      "code": "7828",
+      "name": "Tea - Mint",
+      "unitPrice": 32,
+      "stockQuantity": 43,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "id": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
+      "code": "E8118",
+      "name": "Cookies - Fortune",
+      "unitPrice": 77,
+      "stockQuantity": 85,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "id": "f2da3ee3-ba86-4f8f-aca1-86905ec881b0",
+      "code": "85155",
+      "name": "Appetizer - Escargot Puff",
+      "unitPrice": 97,
+      "stockQuantity": 4,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "id": "00220859-7e1a-4467-a61e-ba62398ae6f1",
+      "code": "01591",
+      "name": "Iced Tea - Lemon, 460 Ml",
+      "unitPrice": 99,
+      "stockQuantity": 75,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "id": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
+      "code": "51189",
+      "name": "Flower - Daisies",
+      "unitPrice": 40,
+      "stockQuantity": 26,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "id": "21f2425f-9b00-4905-a398-59a07bd0c150",
+      "code": "1268",
+      "name": "Mushroom - Shitake, Fresh",
+      "unitPrice": 28,
+      "stockQuantity": 41,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "id": "ba24adc7-b49e-446f-9975-ed92a9b04005",
+      "code": "64291",
+      "name": "Chocolate - Feathers",
+      "unitPrice": 80,
+      "stockQuantity": 12,
+      "minQuantity": 30
     },
     {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "id": "39cb576b-4918-4c85-84f8-c7de93313526",
+      "code": "71145",
+      "name": "Coconut - Whole",
+      "unitPrice": 43,
+      "stockQuantity": 13,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "id": "99ff404c-bae9-443c-8def-1cd6b82dc25c",
+      "code": "V8745",
+      "name": "Fenngreek Seed",
+      "unitPrice": 42,
+      "stockQuantity": 80,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     },
     {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "id": "977217c4-ea8f-4bf3-956a-0a393f05981f",
+      "code": "6186",
+      "name": "Towel Multifold",
+      "unitPrice": 79,
+      "stockQuantity": 84,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
+      "code": "4378",
+      "name": "Artichoke - Fresh",
+      "unitPrice": 14,
+      "stockQuantity": 87,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "607a4384-fa69-4237-8db4-f2217ed13795",
+      "code": "8438",
+      "name": "Iced Tea Concentrate",
+      "unitPrice": 94,
+      "stockQuantity": 85,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
+      "code": "V1584",
+      "name": "Filter - Coffee",
+      "unitPrice": 20,
+      "stockQuantity": 8,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
+      "code": "01556",
+      "name": "Sambuca - Opal Nera",
+      "unitPrice": 37,
+      "stockQuantity": 51,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "8f7829bd-fe8b-4fa4-8feb-c8f4b6ee0a8f",
+      "code": "52522",
+      "name": "Crab - Imitation Flakes",
+      "unitPrice": 17,
+      "stockQuantity": 70,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "658cc5e0-58f1-4d8b-812f-788d5731a7c2",
+      "code": "E9263",
+      "name": "Pineapple - Regular",
+      "unitPrice": 63,
+      "stockQuantity": 46,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "5b63abb1-4cd4-4470-bc9f-deb13d983f7c",
+      "code": "4291",
+      "name": "Cranberry Foccacia",
+      "unitPrice": 34,
+      "stockQuantity": 72,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "f5ca51c6-36df-462c-bba6-e621f04e993b",
+      "code": "1599",
+      "name": "Wine - Conde De Valdemar",
+      "unitPrice": 61,
+      "stockQuantity": 63,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "ef2f5ef8-81e3-469f-a529-98e889b066c7",
+      "code": "E9808",
+      "name": "Bar Mix - Pina Colada, 355 Ml",
+      "unitPrice": 78,
+      "stockQuantity": 42,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "93dd688a-79cf-4c85-8627-cd890e9cae19",
+      "code": "64831",
+      "name": "Wine - Trimbach Pinot Blanc",
+      "unitPrice": 14,
+      "stockQuantity": 54,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "69028d06-17ee-4e34-ac8a-c0873c444014",
+      "code": "64900",
+      "name": "Pie Box - Cello Window 2.5",
+      "unitPrice": 46,
+      "stockQuantity": 2,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "44786490-aa28-455b-92a4-4401a83a4842",
+      "code": "64820",
+      "name": "Energy Drink Bawls",
+      "unitPrice": 18,
+      "stockQuantity": 89,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "f033f384-526e-4c58-945d-15e96d1c9509",
+      "code": "94415",
+      "name": "Pears - Anjou",
+      "unitPrice": 73,
+      "stockQuantity": 63,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
+    },
+    {
+      "id": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
+      "code": "E9202",
+      "name": "Kellogs Cereal In A Cup",
+      "unitPrice": 82,
+      "stockQuantity": 89,
+      "minQuantity": 30,
+      "description": "ceci est une description",
+      "category": "categorie A",
+      "articleSales": []
     }
+  ],
+
+  "sales": [
+    {
+      "id": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
+      "code": "0135-0118",
+      "customerId": "3149858c-620f-4536-9cda-18fbad8e18af",
+      "cashierId": "4d3cbf71-4456-4fb5-8822-97624b1102f0",
+      "date": "3/1/2019"
+    },
+    {
+      "id": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
+      "code": "0591-3758",
+      "customerId": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
+      "cashierId": "644a5a18-3ccf-46ff-a7c1-5d408056c30b",
+      "date": "12/29/2020"
+    },
+    {
+      "id": "41b0e677-5972-4425-a520-e881bfb6a06a",
+      "code": "36987-1655",
+      "customerId": "85605178-16cf-4a46-8ac3-4243bb944c00",
+      "cashierId": "d7a63e0b-d8fc-4917-844e-00c45eb2f694",
+      "date": "11/10/2021"
+    },
+    {
+      "id": "16fe9555-133d-4631-89c6-1d6ac2c81ee0",
+      "code": "54799-432",
+      "customerId": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
+      "cashierId": "ec10641d-a612-4134-93c8-ba89ce8a13b1",
+      "date": "9/18/2021"
+    },
+    {
+      "id": "72921664-5745-449a-a04d-b7192dc347a0",
+      "code": "21695-515",
+      "customerId": "70850c67-250d-4706-ae24-aca5c845c1a8",
+      "cashierId": "b83f1ba0-5118-4c6c-87fa-22a4c9b6d04a",
+      "date": "6/27/2021"
+    },
+    {
+      "id": "79f9b879-4b21-4004-9f57-ef54becf06e8",
+      "code": "66116-400",
+      "customerId": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
+      "cashierId": "2343ef2e-6bd2-45a1-abed-c76ef55f2dcd",
+      "date": "12/16/2017"
+    },
+    {
+      "id": "1e1ef2a3-75ed-4d91-9e2f-52da3d045b79",
+      "code": "60505-3160",
+      "customerId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
+      "cashierId": "143b6cd5-b444-4cf7-a7b6-b98d65404db9",
+      "date": "11/13/2017"
+    },
+    {
+      "id": "a3369209-8373-4268-8e84-e4b5320379c3",
+      "code": "11084-732",
+      "customerId": "ca068e94-c746-494c-a44b-041e1db659ca",
+      "cashierId": "8047d529-ae31-4355-951a-2c8a2659e32f",
+      "date": "1/1/2019"
+    },
+    {
+      "id": "9f12a071-9378-43f1-8b2e-621a4c764608",
+      "code": "57955-2291",
+      "customerId": "6e816c44-abcd-415d-adb3-c61d0d02748d",
+      "cashierId": "0e42a74a-c0b4-45bd-866d-25d5c3733822",
+      "date": "4/24/2018"
+    },
+    {
+      "id": "4ef58081-df32-45dc-ab04-27118dcbf40b",
+      "code": "64141-866",
+      "customerId": "17410a16-53ed-4db1-8df5-bb6c955489d2",
+      "cashierId": "029f72d4-8784-4928-8a30-1fc54b88c3dc",
+      "date": "1/15/2019"
+    },
+    {
+      "id": "e116c794-408f-4d4e-b93a-7d0172fc9636",
+      "code": "53808-0388",
+      "customerId": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
+      "cashierId": "a0729262-c601-43c5-9b33-030e73cc4e23",
+      "date": "10/3/2019"
+    },
+    {
+      "id": "30b30811-68c8-4ec5-845b-9316ea79bc50",
+      "code": "35356-717",
+      "customerId": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
+      "cashierId": "5d564f3b-7601-4f67-82c5-5a4faeee6a91",
+      "date": "10/27/2020"
+    },
+    {
+      "id": "4c93a12f-42f9-4911-b265-ab5c624052ba",
+      "code": "0185-0771",
+      "customerId": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
+      "cashierId": "ade0afb0-3a44-4e69-803d-955139884557",
+      "date": "12/29/2017"
+    },
+    {
+      "id": "608bf982-bcb5-4e42-914b-6253e90b40f6",
+      "code": "36987-3335",
+      "customerId": "077c1761-ae93-468b-a741-9bb22e7dfff3",
+      "cashierId": "e6e255b9-dd88-479a-94c7-bfe31e012e5b",
+      "date": "4/14/2018"
+    },
+    {
+      "id": "1a98a5d0-8b37-41a1-99fa-569a30faee83",
+      "code": "98132-889",
+      "customerId": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
+      "cashierId": "85451fe2-9f52-4cb2-b37a-1f8b017038cc",
+      "date": "7/22/2018"
+    },
+    {
+      "id": "b86bc51b-1fba-46d1-a063-640395b15187",
+      "code": "58982-010",
+      "customerId": "d2e852a0-57aa-402a-982c-01a8126672da",
+      "cashierId": "d5e64a30-6645-45ee-9a65-840e8821ae4e",
+      "date": "8/1/2020"
+    },
+    {
+      "id": "f87f87cc-39d4-434a-a728-2bd87562eca0",
+      "code": "55154-5034",
+      "customerId": "819cfa43-6f22-4241-89bb-29637a12b506",
+      "cashierId": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90",
+      "date": "9/28/2021"
+    },
+    {
+      "id": "84d26f42-58a8-4aa9-a7e5-b3d8beca674b",
+      "code": "10544-618",
+      "customerId": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
+      "cashierId": "d9a35182-047d-4f7f-b6ac-59aa7a562a8f",
+      "date": "9/29/2021"
+    },
+    {
+      "id": "70503593-8570-441c-a922-2faa1624bb7c",
+      "code": "0641-6025",
+      "customerId": "7e457d98-1925-4a6a-9e05-fb06130cd674",
+      "cashierId": "a510f26e-bb6a-44b0-8fa2-bd144451defd",
+      "date": "6/27/2021"
+    },
+    {
+      "id": "a77610a7-004a-4ce5-9328-049860dda7f2",
+      "code": "64725-0209",
+      "customerId": "1b327a3e-813a-4fc4-9d94-b948f987e151",
+      "cashierId": "27799b3f-9c1e-4d53-af0a-a2776710659a",
+      "date": "7/15/2021"
+    },
+    {
+      "id": "474d3588-256c-462d-866e-f05cf7c60388",
+      "code": "68737-238",
+      "customerId": "ec9512f0-c026-4743-9159-0f7016b49d57",
+      "cashierId": "d35eae73-f5bf-467b-95d7-6b6a887bff9e",
+      "date": "6/17/2020"
+    },
+    {
+      "id": "f4f4c23f-36f8-455f-946a-e0108f17a3e8",
+      "code": "57520-0685",
+      "customerId": "93605878-00d4-4927-b6fe-c2db30cb5084",
+      "cashierId": "1636be28-4cd3-4ce6-b35e-d39bf17d94b7",
+      "date": "3/4/2021"
+    },
+    {
+      "id": "a2760d7c-75ff-4b96-aa1f-4f005d7e4a68",
+      "code": "0378-1045",
+      "customerId": "22fa380b-9584-4a78-ac35-908ea0de3b75",
+      "cashierId": "7084dd0c-73e5-456c-a978-dd22f0c73eb2",
+      "date": "1/27/2018"
+    },
+    {
+      "id": "705aa875-f551-4965-928a-24506822cf26",
+      "code": "0363-4009",
+      "customerId": "35f4acde-4b54-480e-97f0-525f9eb532c2",
+      "cashierId": "af284f94-4220-41c4-9850-d6f2b04196cf",
+      "date": "6/17/2019"
+    },
+    {
+      "id": "9007db76-dc44-4f9b-b081-866ad7ea20ff",
+      "code": "0378-3515",
+      "customerId": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
+      "cashierId": "f730928f-e8e3-4958-b7cc-73ce21a87991",
+      "date": "8/31/2021"
+    },
+    {
+      "id": "531ae5b7-b7e6-4e98-aaad-50b215895a57",
+      "code": "0781-6023",
+      "customerId": "c5edf05e-1469-4e6b-8749-4baa647103b9",
+      "cashierId": "1325601e-8bde-44b3-8466-d96f48e5db01",
+      "date": "11/21/2020"
+    },
+    {
+      "id": "06d2040e-37f0-4b8f-bd6a-60a3a4293e83",
+      "code": "41190-187",
+      "customerId": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
+      "cashierId": "eefe90df-fff3-40a0-86ce-6e4c09501fa9",
+      "date": "7/27/2021"
+    },
+    {
+      "id": "2142103b-65b1-45cf-891a-7cb4c9ba0c03",
+      "code": "52670-566",
+      "customerId": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
+      "cashierId": "5c9ef450-2920-45c1-9fde-642cae241f7f",
+      "date": "3/9/2021"
+    },
+    {
+      "id": "70dc3ab9-e97a-4c47-b72b-cd4ea4d61e0a",
+      "code": "61786-006",
+      "customerId": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
+      "cashierId": "ff08a66a-2438-45b6-a620-5a86dbc9b1cd",
+      "date": "3/23/2022"
+    },
+    {
+      "id": "32d6a5b2-a02d-477e-922a-0415a636a27d",
+      "code": "35356-059",
+      "customerId": "31264e96-cb32-42c7-97a1-d609619d3147",
+      "cashierId": "18d30b42-eaf1-4f26-bb43-66f1d58a657b",
+      "date": "3/10/2021"
+    }
+  ],
+
+  "articleSales": [
+    {
+      "articleId": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
+      "saleId": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
+      "quantity": 40,
+      "unitPrice": 905,
+      "totalPrice": 98447
+    },
+    {
+      "articleId": "69028d06-17ee-4e34-ac8a-c0873c444014",
+      "saleId": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
+      "quantity": 17,
+      "unitPrice": 412,
+      "totalPrice": 41313
+    },
+    {
+      "articleId": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
+      "saleId": "41b0e677-5972-4425-a520-e881bfb6a06a",
+      "quantity": 23,
+      "unitPrice": 408,
+      "totalPrice": 3670
+    },
+    {
+      "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
+      "saleId": "16fe9555-133d-4631-89c6-1d6ac2c81ee0",
+      "quantity": 28,
+      "unitPrice": 302,
+      "totalPrice": 21988
+    },
+    {
+      "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
+      "saleId": "72921664-5745-449a-a04d-b7192dc347a0",
+      "quantity": 1,
+      "unitPrice": 221,
+      "totalPrice": 99570
+    },
+    {
+      "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
+      "saleId": "79f9b879-4b21-4004-9f57-ef54becf06e8",
+      "quantity": 39,
+      "unitPrice": 313,
+      "totalPrice": 51872
+    },
+    {
+      "articleId": "607a4384-fa69-4237-8db4-f2217ed13795",
+      "saleId": "1e1ef2a3-75ed-4d91-9e2f-52da3d045b79",
+      "quantity": 28,
+      "unitPrice": 117,
+      "totalPrice": 99347
+    },
+    {
+      "articleId": "607a4384-fa69-4237-8db4-f2217ed13795",
+      "saleId": "a3369209-8373-4268-8e84-e4b5320379c3",
+      "quantity": 22,
+      "unitPrice": 397,
+      "totalPrice": 56277
+    },
+    {
+      "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
+      "saleId": "9f12a071-9378-43f1-8b2e-621a4c764608",
+      "quantity": 32,
+      "unitPrice": 172,
+      "totalPrice": 87456
+    },
+    {
+      "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
+      "saleId": "4ef58081-df32-45dc-ab04-27118dcbf40b",
+      "quantity": 42,
+      "unitPrice": 351,
+      "totalPrice": 33810
+    },
+    {
+      "articleId": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
+      "saleId": "e116c794-408f-4d4e-b93a-7d0172fc9636",
+      "quantity": 20,
+      "unitPrice": 753,
+      "totalPrice": 31694
+    },
+    {
+      "articleId": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
+      "saleId": "30b30811-68c8-4ec5-845b-9316ea79bc50",
+      "quantity": 16,
+      "unitPrice": 76,
+      "totalPrice": 60985
+    },
+    {
+      "articleId": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
+      "saleId": "4c93a12f-42f9-4911-b265-ab5c624052ba",
+      "quantity": 40,
+      "unitPrice": 788,
+      "totalPrice": 78144
+    },
+    {
+      "articleId": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
+      "saleId": "608bf982-bcb5-4e42-914b-6253e90b40f6",
+      "quantity": 7,
+      "unitPrice": 307,
+      "totalPrice": 99924
+    },
+    {
+      "articleId": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
+      "saleId": "1a98a5d0-8b37-41a1-99fa-569a30faee83",
+      "quantity": 49,
+      "unitPrice": 996,
+      "totalPrice": 37349
+    },
+    {
+      "articleId": "658cc5e0-58f1-4d8b-812f-788d5731a7c2",
+      "saleId": "b86bc51b-1fba-46d1-a063-640395b15187",
+      "quantity": 5,
+      "unitPrice": 415,
+      "totalPrice": 11210
+    },
+    {
+      "articleId": "8f7829bd-fe8b-4fa4-8feb-c8f4b6ee0a8f",
+      "saleId": "f87f87cc-39d4-434a-a728-2bd87562eca0",
+      "quantity": 5,
+      "unitPrice": 386,
+      "totalPrice": 95179
+    },
+    {
+      "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
+      "saleId": "84d26f42-58a8-4aa9-a7e5-b3d8beca674b",
+      "quantity": 3,
+      "unitPrice": 441,
+      "totalPrice": 63441
+    },
+    {
+      "articleId": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
+      "saleId": "70503593-8570-441c-a922-2faa1624bb7c",
+      "quantity": 6,
+      "unitPrice": 501,
+      "totalPrice": 4586
+    },
+    {
+      "articleId": "5b63abb1-4cd4-4470-bc9f-deb13d983f7c",
+      "saleId": "a77610a7-004a-4ce5-9328-049860dda7f2",
+      "quantity": 2,
+      "unitPrice": 758,
+      "totalPrice": 92109
+    },
+    {
+      "articleId": "ef2f5ef8-81e3-469f-a529-98e889b066c7",
+      "saleId": "474d3588-256c-462d-866e-f05cf7c60388",
+      "quantity": 3,
+      "unitPrice": 566,
+      "totalPrice": 88557
+    },
+    {
+      "articleId": "f5ca51c6-36df-462c-bba6-e621f04e993b",
+      "saleId": "f4f4c23f-36f8-455f-946a-e0108f17a3e8",
+      "quantity": 28,
+      "unitPrice": 457,
+      "totalPrice": 49166
+    },
+    {
+      "articleId": "93dd688a-79cf-4c85-8627-cd890e9cae19",
+      "saleId": "a2760d7c-75ff-4b96-aa1f-4f005d7e4a68",
+      "quantity": 26,
+      "unitPrice": 775,
+      "totalPrice": 99919
+    },
+    {
+      "articleId": "69028d06-17ee-4e34-ac8a-c0873c444014",
+      "saleId": "705aa875-f551-4965-928a-24506822cf26",
+      "quantity": 24,
+      "unitPrice": 714,
+      "totalPrice": 73673
+    },
+    {
+      "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
+      "saleId": "9007db76-dc44-4f9b-b081-866ad7ea20ff",
+      "quantity": 8,
+      "unitPrice": 227,
+      "totalPrice": 91953
+    },
+    {
+      "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
+      "saleId": "531ae5b7-b7e6-4e98-aaad-50b215895a57",
+      "quantity": 12,
+      "unitPrice": 13,
+      "totalPrice": 73361
+    },
+    {
+      "articleId": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
+      "saleId": "06d2040e-37f0-4b8f-bd6a-60a3a4293e83",
+      "quantity": 29,
+      "unitPrice": 291,
+      "totalPrice": 90018
+    },
+    {
+      "articleId": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
+      "saleId": "2142103b-65b1-45cf-891a-7cb4c9ba0c03",
+      "quantity": 41,
+      "unitPrice": 168,
+      "totalPrice": 5584
+    },
+    {
+      "articleId": "00220859-7e1a-4467-a61e-ba62398ae6f1",
+      "saleId": "70dc3ab9-e97a-4c47-b72b-cd4ea4d61e0a",
+      "quantity": 48,
+      "unitPrice": 464,
+      "totalPrice": 98591
+    },
+    {
+      "articleId": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
+      "saleId": "32d6a5b2-a02d-477e-922a-0415a636a27d",
+      "quantity": 43,
+      "unitPrice": 493,
+      "totalPrice": 62050
+    }
+  ],
+
+  "customers": [
+    { "id": "3149858c-620f-4536-9cda-18fbad8e18af" },
+    { "id": "b4037c34-ad19-46dc-b71e-7b59e56234ec" },
+    { "id": "85605178-16cf-4a46-8ac3-4243bb944c00" },
+    { "id": "b87fbb2f-66d8-4386-b14b-e242a18348a2" },
+    { "id": "70850c67-250d-4706-ae24-aca5c845c1a8" },
+    { "id": "9599d2fd-d88c-427b-9d3a-5ca080d60278" },
+    { "id": "feb3d33c-f45a-4151-bb79-0daefa4c64e7" },
+    { "id": "ca068e94-c746-494c-a44b-041e1db659ca" },
+    { "id": "6e816c44-abcd-415d-adb3-c61d0d02748d" },
+    { "id": "17410a16-53ed-4db1-8df5-bb6c955489d2" },
+    { "id": "425e6249-bd0e-4eba-8443-b67bf93a1b55" },
+    { "id": "ddf96504-af7e-4611-a98b-4a50e3225d8e" },
+    { "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f" },
+    { "id": "077c1761-ae93-468b-a741-9bb22e7dfff3" },
+    { "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49" },
+    { "id": "d2e852a0-57aa-402a-982c-01a8126672da" },
+    { "id": "819cfa43-6f22-4241-89bb-29637a12b506" },
+    { "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6" },
+    { "id": "7e457d98-1925-4a6a-9e05-fb06130cd674" },
+    { "id": "1b327a3e-813a-4fc4-9d94-b948f987e151" },
+    { "id": "ec9512f0-c026-4743-9159-0f7016b49d57" },
+    { "id": "93605878-00d4-4927-b6fe-c2db30cb5084" },
+    { "id": "22fa380b-9584-4a78-ac35-908ea0de3b75" },
+    { "id": "35f4acde-4b54-480e-97f0-525f9eb532c2" },
+    { "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92" },
+    { "id": "c5edf05e-1469-4e6b-8749-4baa647103b9" },
+    { "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636" },
+    { "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1" },
+    { "id": "88bc60c9-07d6-4966-99c8-19f3c11be4e2" },
+    { "id": "31264e96-cb32-42c7-97a1-d609619d3147" }
+  ],
+
+  "cashiers": [
+    { "id": "4d3cbf71-4456-4fb5-8822-97624b1102f0" },
+    { "id": "644a5a18-3ccf-46ff-a7c1-5d408056c30b" },
+    { "id": "d7a63e0b-d8fc-4917-844e-00c45eb2f694" },
+    { "id": "ec10641d-a612-4134-93c8-ba89ce8a13b1" },
+    { "id": "b83f1ba0-5118-4c6c-87fa-22a4c9b6d04a" },
+    { "id": "2343ef2e-6bd2-45a1-abed-c76ef55f2dcd" },
+    { "id": "143b6cd5-b444-4cf7-a7b6-b98d65404db9" },
+    { "id": "8047d529-ae31-4355-951a-2c8a2659e32f" },
+    { "id": "0e42a74a-c0b4-45bd-866d-25d5c3733822" },
+    { "id": "029f72d4-8784-4928-8a30-1fc54b88c3dc" },
+    { "id": "a0729262-c601-43c5-9b33-030e73cc4e23" },
+    { "id": "5d564f3b-7601-4f67-82c5-5a4faeee6a91" },
+    { "id": "ade0afb0-3a44-4e69-803d-955139884557" },
+    { "id": "e6e255b9-dd88-479a-94c7-bfe31e012e5b" },
+    { "id": "85451fe2-9f52-4cb2-b37a-1f8b017038cc" },
+    { "id": "d5e64a30-6645-45ee-9a65-840e8821ae4e" },
+    { "id": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90" },
+    { "id": "d9a35182-047d-4f7f-b6ac-59aa7a562a8f" },
+    { "id": "a510f26e-bb6a-44b0-8fa2-bd144451defd" },
+    { "id": "27799b3f-9c1e-4d53-af0a-a2776710659a" },
+    { "id": "d35eae73-f5bf-467b-95d7-6b6a887bff9e" },
+    { "id": "1636be28-4cd3-4ce6-b35e-d39bf17d94b7" },
+    { "id": "7084dd0c-73e5-456c-a978-dd22f0c73eb2" },
+    { "id": "af284f94-4220-41c4-9850-d6f2b04196cf" },
+    { "id": "f730928f-e8e3-4958-b7cc-73ce21a87991" },
+    { "id": "1325601e-8bde-44b3-8466-d96f48e5db01" },
+    { "id": "eefe90df-fff3-40a0-86ce-6e4c09501fa9" },
+    { "id": "5c9ef450-2920-45c1-9fde-642cae241f7f" },
+    { "id": "ff08a66a-2438-45b6-a620-5a86dbc9b1cd" },
+    { "id": "18d30b42-eaf1-4f26-bb43-66f1d58a657b" }
   ]
 }
