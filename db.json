@@ -483,8 +483,8 @@
       "supplierId": "3149858c-620f-4536-9cda-18fbad8e18af",
       "date": "3/1/2019",
       "totalCost": 27056.78,
-      "creationDate": "8/12/2021",
-      "lastModificationDate": "5/7/2021",
+      "creationDate": "2021-06-02",
+      "lastModificationDate": "2021-04-05",
       "status": "Draft"
     },
     {
@@ -493,8 +493,8 @@
       "supplierId": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
       "date": "12/29/2020",
       "totalCost": 24072.02,
-      "creationDate": "1/12/2021",
-      "lastModificationDate": "12/30/2020",
+      "creationDate": "2021-03-19",
+      "lastModificationDate": "2021-02-04",
       "status": "Draft"
     },
     {
@@ -503,8 +503,8 @@
       "supplierId": "85605178-16cf-4a46-8ac3-4243bb944c00",
       "date": "11/10/2021",
       "totalCost": 99766.93,
-      "creationDate": "7/2/2021",
-      "lastModificationDate": "11/28/2020",
+      "creationDate": "2021-08-08",
+      "lastModificationDate": "2021-10-14",
       "status": "Draft"
     },
     {
@@ -513,8 +513,8 @@
       "supplierId": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
       "date": "9/18/2021",
       "totalCost": 3001.21,
-      "creationDate": "12/11/2020",
-      "lastModificationDate": "3/18/2021",
+      "creationDate": "2021-06-27",
+      "lastModificationDate": "2021-08-21",
       "status": "Sent"
     },
     {
@@ -523,8 +523,8 @@
       "supplierId": "70850c67-250d-4706-ae24-aca5c845c1a8",
       "date": "6/27/2021",
       "totalCost": 27657.54,
-      "creationDate": "5/31/2021",
-      "lastModificationDate": "12/9/2020",
+      "creationDate": "2021-04-02",
+      "lastModificationDate": "2021-02-24",
       "status": "Sent"
     },
     {
@@ -533,8 +533,8 @@
       "supplierId": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
       "date": "12/16/2017",
       "totalCost": 59068.67,
-      "creationDate": "8/26/2021",
-      "lastModificationDate": "6/1/2021",
+      "creationDate": "2021-07-29",
+      "lastModificationDate": "2021-01-02",
       "status": "Sent"
     },
     {
@@ -543,8 +543,8 @@
       "supplierId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
       "date": "11/13/2017",
       "totalCost": 28564.74,
-      "creationDate": "2/20/2021",
-      "lastModificationDate": "7/27/2021",
+      "creationDate": "2021-07-31",
+      "lastModificationDate": "2021-10-06",
       "status": "Shipped"
     },
     {
@@ -553,8 +553,8 @@
       "supplierId": "ca068e94-c746-494c-a44b-041e1db659ca",
       "date": "1/1/2019",
       "totalCost": 17298.37,
-      "creationDate": "11/16/2020",
-      "lastModificationDate": "4/5/2021",
+      "creationDate": "2021-05-25",
+      "lastModificationDate": "2021-10-12",
       "status": "Shipped"
     },
     {
@@ -563,8 +563,8 @@
       "supplierId": "6e816c44-abcd-415d-adb3-c61d0d02748d",
       "date": "4/24/2018",
       "totalCost": 2323.22,
-      "creationDate": "11/28/2020",
-      "lastModificationDate": "8/1/2021",
+      "creationDate": "2020-11-25",
+      "lastModificationDate": "2021-05-12",
       "status": "Shipped"
     },
     {
@@ -573,8 +573,8 @@
       "supplierId": "17410a16-53ed-4db1-8df5-bb6c955489d2",
       "date": "1/15/2019",
       "totalCost": 4566.32,
-      "creationDate": "3/12/2021",
-      "lastModificationDate": "2/5/2021",
+      "creationDate": "2021-04-17",
+      "lastModificationDate": "2021-09-13",
       "status": "Shipped"
     },
     {
@@ -583,8 +583,8 @@
       "supplierId": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
       "date": "10/3/2019",
       "totalCost": 3760.05,
-      "creationDate": "7/31/2021",
-      "lastModificationDate": "5/26/2021",
+      "creationDate": "2021-05-20",
+      "lastModificationDate": "2021-10-21",
       "status": "Cancelled"
     },
     {
@@ -593,8 +593,8 @@
       "supplierId": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
       "date": "10/27/2020",
       "totalCost": 192.67,
-      "creationDate": "7/24/2021",
-      "lastModificationDate": "4/1/2021",
+      "creationDate": "2021-07-21",
+      "lastModificationDate": "2021-02-15",
       "status": "Cancelled"
     },
     {
@@ -603,8 +603,8 @@
       "supplierId": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
       "date": "12/29/2017",
       "totalCost": 45405.22,
-      "creationDate": "10/19/2021",
-      "lastModificationDate": "12/1/2020",
+      "creationDate": "2021-01-25",
+      "lastModificationDate": "2021-10-09",
       "status": "Cancelled"
     },
     {
@@ -613,8 +613,8 @@
       "supplierId": "077c1761-ae93-468b-a741-9bb22e7dfff3",
       "date": "4/14/2018",
       "totalCost": 84429.88,
-      "creationDate": "3/16/2021",
-      "lastModificationDate": "10/10/2021",
+      "creationDate": "2021-06-18",
+      "lastModificationDate": "2021-03-06",
       "status": "Cancelled"
     },
     {
@@ -623,8 +623,8 @@
       "supplierId": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
       "date": "7/22/2018",
       "totalCost": 74686.13,
-      "creationDate": "9/29/2021",
-      "lastModificationDate": "5/20/2021",
+      "creationDate": "2020-11-13",
+      "lastModificationDate": "2021-01-15",
       "status": "Cancelled"
     },
     {
@@ -633,8 +633,8 @@
       "supplierId": "d2e852a0-57aa-402a-982c-01a8126672da",
       "date": "8/1/2020",
       "totalCost": 33195.32,
-      "creationDate": "8/13/2021",
-      "lastModificationDate": "11/16/2020",
+      "creationDate": "2020-12-22",
+      "lastModificationDate": "2021-06-03",
       "status": "Cancelled"
     },
     {
@@ -643,8 +643,8 @@
       "supplierId": "819cfa43-6f22-4241-89bb-29637a12b506",
       "date": "9/28/2021",
       "totalCost": 55348.51,
-      "creationDate": "6/3/2021",
-      "lastModificationDate": "4/14/2021",
+      "creationDate": "2020-11-16",
+      "lastModificationDate": "2021-06-02",
       "status": "Cancelled"
     },
     {
@@ -653,8 +653,8 @@
       "supplierId": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
       "date": "9/29/2021",
       "totalCost": 28606.33,
-      "creationDate": "3/12/2021",
-      "lastModificationDate": "4/13/2021",
+      "creationDate": "2020-12-24",
+      "lastModificationDate": "2021-09-26",
       "status": "Cancelled"
     },
     {
@@ -663,8 +663,8 @@
       "supplierId": "7e457d98-1925-4a6a-9e05-fb06130cd674",
       "date": "6/27/2021",
       "totalCost": 48713.69,
-      "creationDate": "9/28/2021",
-      "lastModificationDate": "12/18/2020",
+      "creationDate": "2021-02-27",
+      "lastModificationDate": "2021-06-14",
       "status": "Cancelled"
     },
     {
@@ -673,8 +673,8 @@
       "supplierId": "1b327a3e-813a-4fc4-9d94-b948f987e151",
       "date": "7/15/2021",
       "totalCost": 27181.59,
-      "creationDate": "12/10/2020",
-      "lastModificationDate": "4/14/2021",
+      "creationDate": "2021-04-22",
+      "lastModificationDate": "2021-06-07",
       "status": "Cancelled"
     },
     {
@@ -683,8 +683,8 @@
       "supplierId": "ec9512f0-c026-4743-9159-0f7016b49d57",
       "date": "6/17/2020",
       "totalCost": 22470.69,
-      "creationDate": "3/1/2021",
-      "lastModificationDate": "5/29/2021",
+      "creationDate": "2020-11-14",
+      "lastModificationDate": "2021-09-19",
       "status": "Draft"
     },
     {
@@ -693,8 +693,8 @@
       "supplierId": "93605878-00d4-4927-b6fe-c2db30cb5084",
       "date": "3/4/2021",
       "totalCost": 25714.06,
-      "creationDate": "11/2/2020",
-      "lastModificationDate": "1/3/2021",
+      "creationDate": "2020-12-26",
+      "lastModificationDate": "2021-07-16",
       "status": "Cancelled"
     },
     {
@@ -703,8 +703,8 @@
       "supplierId": "22fa380b-9584-4a78-ac35-908ea0de3b75",
       "date": "1/27/2018",
       "totalCost": 87983.63,
-      "creationDate": "3/7/2021",
-      "lastModificationDate": "10/28/2021",
+      "creationDate": "2021-01-24",
+      "lastModificationDate": "2021-04-15",
       "status": "Cancelled"
     },
     {
@@ -713,8 +713,8 @@
       "supplierId": "35f4acde-4b54-480e-97f0-525f9eb532c2",
       "date": "6/17/2019",
       "totalCost": 58240.59,
-      "creationDate": "1/6/2021",
-      "lastModificationDate": "5/17/2021",
+      "creationDate": "2021-07-25",
+      "lastModificationDate": "2021-04-21",
       "status": "Cancelled"
     },
     {
@@ -723,8 +723,8 @@
       "supplierId": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
       "date": "8/31/2021",
       "totalCost": 67231.74,
-      "creationDate": "6/6/2021",
-      "lastModificationDate": "3/9/2021",
+      "creationDate": "2021-07-01",
+      "lastModificationDate": "2021-02-13",
       "status": "Cancelled"
     },
     {
@@ -733,8 +733,8 @@
       "supplierId": "c5edf05e-1469-4e6b-8749-4baa647103b9",
       "date": "11/21/2020",
       "totalCost": 17501.5,
-      "creationDate": "3/30/2021",
-      "lastModificationDate": "8/20/2021",
+      "creationDate": "2020-12-14",
+      "lastModificationDate": "2021-08-16",
       "status": "Cancelled"
     },
     {
@@ -743,8 +743,8 @@
       "supplierId": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
       "date": "7/27/2021",
       "totalCost": 87364.1,
-      "creationDate": "4/26/2021",
-      "lastModificationDate": "10/7/2021",
+      "creationDate": "2020-12-30",
+      "lastModificationDate": "2020-11-16",
       "status": "Cancelled"
     },
     {
@@ -753,8 +753,8 @@
       "supplierId": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
       "date": "3/9/2021",
       "totalCost": 53090.74,
-      "creationDate": "4/19/2021",
-      "lastModificationDate": "9/13/2021",
+      "creationDate": "2021-08-25",
+      "lastModificationDate": "2021-04-19",
       "status": "Cancelled"
     },
     {
@@ -763,8 +763,8 @@
       "supplierId": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
       "date": "3/23/2022",
       "totalCost": 36016.63,
-      "creationDate": "3/22/2021",
-      "lastModificationDate": "10/23/2021",
+      "creationDate": "2021-04-18",
+      "lastModificationDate": "2021-10-03",
       "status": "Cancelled"
     },
     {
@@ -773,8 +773,8 @@
       "supplierId": "31264e96-cb32-42c7-97a1-d609619d3147",
       "date": "3/10/2021",
       "totalCost": 56445.07,
-      "creationDate": "2/1/2021",
-      "lastModificationDate": "12/19/2020",
+      "creationDate": "2021-10-10",
+      "lastModificationDate": "2020-12-20",
       "status": "Cancelled"
     }
   ],
