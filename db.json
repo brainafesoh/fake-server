@@ -992,7 +992,7 @@
     }
   ],
 
-  "articlePurchases": [
+  "purchaseArticles": [
     {
       "articleId": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
       "purchaseId": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
