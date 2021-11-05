@@ -262,7 +262,6 @@
       "articleSales": []
     }
   ],
-
   "sales": [
     {
       "id": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
@@ -475,17 +474,16 @@
       "date": "3/10/2021"
     }
   ],
-
   "purchases": [
     {
       "id": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
-      "code": "0135-0118",
-      "supplierId": "3149858c-620f-4536-9cda-18fbad8e18af",
+      "code": "0135-0999",
+      "supplierId": "819cfa43-6f22-4241-89bb-29637a12b506",
       "date": "3/1/2019",
       "totalCost": 27056.78,
       "creationDate": "2021-06-02",
       "lastModificationDate": "2021-04-05",
-      "status": "Draft"
+      "status": "Sent"
     },
     {
       "id": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
@@ -776,9 +774,40 @@
       "creationDate": "2021-10-10",
       "lastModificationDate": "2020-12-20",
       "status": "Cancelled"
+    },
+    {
+      "status": "Draft",
+      "creationDate": "2021-11-04",
+      "code": "0135-011878",
+      "supplierId": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
+      "lastModificationDate": "2021-11-04",
+      "id": "-NQTJWP"
+    },
+    {
+      "status": "Sent",
+      "creationDate": "2021-11-04",
+      "code": "0591-0000",
+      "supplierId": "7e457d98-1925-4a6a-9e05-fb06130cd674",
+      "lastModificationDate": "2021-11-04",
+      "id": "sQJut7E"
+    },
+    {
+      "status": "Draft",
+      "creationDate": "2021-11-04",
+      "code": "0591-4500",
+      "supplierId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
+      "lastModificationDate": "2021-11-04",
+      "id": "ioReAeu"
+    },
+    {
+      "status": "Draft",
+      "creationDate": "2021-11-04",
+      "code": "0135-1109",
+      "supplierId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
+      "lastModificationDate": "2021-11-04",
+      "id": "D7jOrxj"
     }
   ],
-
   "articleSales": [
     {
       "articleId": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
@@ -991,16 +1020,17 @@
       "totalPrice": 62050
     }
   ],
-
   "purchaseArticles": [
     {
-      "articleId": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
+      "id": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
+      "articleId": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
       "purchaseId": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
       "quantity": 40,
       "unitPrice": 905,
       "totalPrice": 98447
     },
     {
+      "id": "69028d06-17ee-4e34-ac8a-c0873c444014",
       "articleId": "69028d06-17ee-4e34-ac8a-c0873c444014",
       "purchaseId": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
       "quantity": 17,
@@ -1008,6 +1038,7 @@
       "totalPrice": 41313
     },
     {
+      "id": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
       "articleId": "aabf36f2-0fa9-4c25-8092-f80dfb94c11d",
       "purchaseId": "41b0e677-5972-4425-a520-e881bfb6a06a",
       "quantity": 23,
@@ -1015,6 +1046,7 @@
       "totalPrice": 3670
     },
     {
+      "id": "44786490-aa28-455b-92a4-4401a83a4842",
       "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
       "purchaseId": "16fe9555-133d-4631-89c6-1d6ac2c81ee0",
       "quantity": 28,
@@ -1022,6 +1054,7 @@
       "totalPrice": 21988
     },
     {
+      "id": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "purchaseId": "72921664-5745-449a-a04d-b7192dc347a0",
       "quantity": 1,
@@ -1029,6 +1062,7 @@
       "totalPrice": 99570
     },
     {
+      "id": "44786490-aa28-455b-92a4-4401a83a4842",
       "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
       "purchaseId": "79f9b879-4b21-4004-9f57-ef54becf06e8",
       "quantity": 39,
@@ -1036,6 +1070,7 @@
       "totalPrice": 51872
     },
     {
+      "id": "607a4384-fa69-4237-8db4-f2217ed13795",
       "articleId": "607a4384-fa69-4237-8db4-f2217ed13795",
       "purchaseId": "1e1ef2a3-75ed-4d91-9e2f-52da3d045b79",
       "quantity": 28,
@@ -1043,6 +1078,7 @@
       "totalPrice": 99347
     },
     {
+      "id": "607a4384-fa69-4237-8db4-f2217ed13795",
       "articleId": "607a4384-fa69-4237-8db4-f2217ed13795",
       "purchaseId": "a3369209-8373-4268-8e84-e4b5320379c3",
       "quantity": 22,
@@ -1050,6 +1086,7 @@
       "totalPrice": 56277
     },
     {
+      "id": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "purchaseId": "9f12a071-9378-43f1-8b2e-621a4c764608",
       "quantity": 32,
@@ -1057,6 +1094,7 @@
       "totalPrice": 87456
     },
     {
+      "id": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "purchaseId": "4ef58081-df32-45dc-ab04-27118dcbf40b",
       "quantity": 42,
@@ -1064,6 +1102,7 @@
       "totalPrice": 33810
     },
     {
+      "id": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
       "articleId": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
       "purchaseId": "e116c794-408f-4d4e-b93a-7d0172fc9636",
       "quantity": 20,
@@ -1071,6 +1110,7 @@
       "totalPrice": 31694
     },
     {
+      "id": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
       "articleId": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
       "purchaseId": "30b30811-68c8-4ec5-845b-9316ea79bc50",
       "quantity": 16,
@@ -1078,6 +1118,7 @@
       "totalPrice": 60985
     },
     {
+      "id": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
       "articleId": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
       "purchaseId": "4c93a12f-42f9-4911-b265-ab5c624052ba",
       "quantity": 40,
@@ -1085,6 +1126,7 @@
       "totalPrice": 78144
     },
     {
+      "id": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
       "articleId": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
       "purchaseId": "608bf982-bcb5-4e42-914b-6253e90b40f6",
       "quantity": 7,
@@ -1092,6 +1134,7 @@
       "totalPrice": 99924
     },
     {
+      "id": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
       "articleId": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
       "purchaseId": "1a98a5d0-8b37-41a1-99fa-569a30faee83",
       "quantity": 49,
@@ -1099,6 +1142,7 @@
       "totalPrice": 37349
     },
     {
+      "id": "658cc5e0-58f1-4d8b-812f-788d5731a7c2",
       "articleId": "658cc5e0-58f1-4d8b-812f-788d5731a7c2",
       "purchaseId": "b86bc51b-1fba-46d1-a063-640395b15187",
       "quantity": 5,
@@ -1106,6 +1150,7 @@
       "totalPrice": 11210
     },
     {
+      "id": "8f7829bd-fe8b-4fa4-8feb-c8f4b6ee0a8f",
       "articleId": "8f7829bd-fe8b-4fa4-8feb-c8f4b6ee0a8f",
       "purchaseId": "f87f87cc-39d4-434a-a728-2bd87562eca0",
       "quantity": 5,
@@ -1113,6 +1158,7 @@
       "totalPrice": 95179
     },
     {
+      "id": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "purchaseId": "84d26f42-58a8-4aa9-a7e5-b3d8beca674b",
       "quantity": 3,
@@ -1120,6 +1166,7 @@
       "totalPrice": 63441
     },
     {
+      "id": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
       "articleId": "99b19e40-de6b-4cfa-90df-1a5d2547ce81",
       "purchaseId": "70503593-8570-441c-a922-2faa1624bb7c",
       "quantity": 6,
@@ -1127,6 +1174,7 @@
       "totalPrice": 4586
     },
     {
+      "id": "5b63abb1-4cd4-4470-bc9f-deb13d983f7c",
       "articleId": "5b63abb1-4cd4-4470-bc9f-deb13d983f7c",
       "purchaseId": "a77610a7-004a-4ce5-9328-049860dda7f2",
       "quantity": 2,
@@ -1134,6 +1182,7 @@
       "totalPrice": 92109
     },
     {
+      "id": "ef2f5ef8-81e3-469f-a529-98e889b066c7",
       "articleId": "ef2f5ef8-81e3-469f-a529-98e889b066c7",
       "purchaseId": "474d3588-256c-462d-866e-f05cf7c60388",
       "quantity": 3,
@@ -1141,6 +1190,7 @@
       "totalPrice": 88557
     },
     {
+      "id": "f5ca51c6-36df-462c-bba6-e621f04e993b",
       "articleId": "f5ca51c6-36df-462c-bba6-e621f04e993b",
       "purchaseId": "f4f4c23f-36f8-455f-946a-e0108f17a3e8",
       "quantity": 28,
@@ -1148,6 +1198,7 @@
       "totalPrice": 49166
     },
     {
+      "id": "93dd688a-79cf-4c85-8627-cd890e9cae19",
       "articleId": "93dd688a-79cf-4c85-8627-cd890e9cae19",
       "purchaseId": "a2760d7c-75ff-4b96-aa1f-4f005d7e4a68",
       "quantity": 26,
@@ -1155,6 +1206,7 @@
       "totalPrice": 99919
     },
     {
+      "id": "69028d06-17ee-4e34-ac8a-c0873c444014",
       "articleId": "69028d06-17ee-4e34-ac8a-c0873c444014",
       "purchaseId": "705aa875-f551-4965-928a-24506822cf26",
       "quantity": 24,
@@ -1162,6 +1214,7 @@
       "totalPrice": 73673
     },
     {
+      "id": "44786490-aa28-455b-92a4-4401a83a4842",
       "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
       "purchaseId": "9007db76-dc44-4f9b-b081-866ad7ea20ff",
       "quantity": 8,
@@ -1169,6 +1222,7 @@
       "totalPrice": 91953
     },
     {
+      "id": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "articleId": "7b3e27c4-6240-4df5-a2b9-aab268a99094",
       "purchaseId": "531ae5b7-b7e6-4e98-aaad-50b215895a57",
       "quantity": 12,
@@ -1176,6 +1230,7 @@
       "totalPrice": 73361
     },
     {
+      "id": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
       "articleId": "f1be6d2d-1f72-426c-b9ed-87ed364da5a4",
       "purchaseId": "06d2040e-37f0-4b8f-bd6a-60a3a4293e83",
       "quantity": 29,
@@ -1183,6 +1238,7 @@
       "totalPrice": 90018
     },
     {
+      "id": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
       "articleId": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
       "purchaseId": "2142103b-65b1-45cf-891a-7cb4c9ba0c03",
       "quantity": 41,
@@ -1190,6 +1246,7 @@
       "totalPrice": 5584
     },
     {
+      "id": "00220859-7e1a-4467-a61e-ba62398ae6f1",
       "articleId": "00220859-7e1a-4467-a61e-ba62398ae6f1",
       "purchaseId": "70dc3ab9-e97a-4c47-b72b-cd4ea4d61e0a",
       "quantity": 48,
@@ -1197,6 +1254,7 @@
       "totalPrice": 98591
     },
     {
+      "id": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
       "articleId": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
       "purchaseId": "32d6a5b2-a02d-477e-922a-0415a636a27d",
       "quantity": 43,
@@ -1204,26 +1262,43 @@
       "totalPrice": 62050
     }
   ],
-
   "customers": [
-    { "id": "3149858c-620f-4536-9cda-18fbad8e18af", "name": "Gleda Perelli" },
+    {
+      "id": "3149858c-620f-4536-9cda-18fbad8e18af",
+      "name": "Gleda Perelli"
+    },
     {
       "id": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
       "name": "Jefferson Wightman"
     },
-    { "id": "85605178-16cf-4a46-8ac3-4243bb944c00", "name": "Cindie Coppin" },
+    {
+      "id": "85605178-16cf-4a46-8ac3-4243bb944c00",
+      "name": "Cindie Coppin"
+    },
     {
       "id": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
       "name": "Elston Capnerhurst"
     },
-    { "id": "70850c67-250d-4706-ae24-aca5c845c1a8", "name": "Lissy Conroy" },
-    { "id": "9599d2fd-d88c-427b-9d3a-5ca080d60278", "name": "Emilee Tampen" },
+    {
+      "id": "70850c67-250d-4706-ae24-aca5c845c1a8",
+      "name": "Lissy Conroy"
+    },
+    {
+      "id": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
+      "name": "Emilee Tampen"
+    },
     {
       "id": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
       "name": "Libbey Rubinovici"
     },
-    { "id": "ca068e94-c746-494c-a44b-041e1db659ca", "name": "Alexis Goulston" },
-    { "id": "6e816c44-abcd-415d-adb3-c61d0d02748d", "name": "Oriana Peskin" },
+    {
+      "id": "ca068e94-c746-494c-a44b-041e1db659ca",
+      "name": "Alexis Goulston"
+    },
+    {
+      "id": "6e816c44-abcd-415d-adb3-c61d0d02748d",
+      "name": "Oriana Peskin"
+    },
     {
       "id": "17410a16-53ed-4db1-8df5-bb6c955489d2",
       "name": "Gratia Squirrell"
@@ -1236,113 +1311,270 @@
       "id": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
       "name": "Marylin Lindenfeld"
     },
-    { "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f", "name": "Moses Mordaunt" },
-    { "id": "077c1761-ae93-468b-a741-9bb22e7dfff3", "name": "Robbyn Kaufman" },
-    { "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49", "name": "Pattin Clail" },
+    {
+      "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
+      "name": "Moses Mordaunt"
+    },
+    {
+      "id": "077c1761-ae93-468b-a741-9bb22e7dfff3",
+      "name": "Robbyn Kaufman"
+    },
+    {
+      "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
+      "name": "Pattin Clail"
+    },
     {
       "id": "d2e852a0-57aa-402a-982c-01a8126672da",
       "name": "Millie Jovasevic"
     },
-    { "id": "819cfa43-6f22-4241-89bb-29637a12b506", "name": "Jayme Mathivet" },
-    { "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6", "name": "Modesty Phelp" },
-    { "id": "7e457d98-1925-4a6a-9e05-fb06130cd674", "name": "Melosa Mackro" },
-    { "id": "1b327a3e-813a-4fc4-9d94-b948f987e151", "name": "Mikel Barnwille" },
-    { "id": "ec9512f0-c026-4743-9159-0f7016b49d57", "name": "Dyanna Levane" },
+    {
+      "id": "819cfa43-6f22-4241-89bb-29637a12b506",
+      "name": "Jayme Mathivet"
+    },
+    {
+      "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
+      "name": "Modesty Phelp"
+    },
+    {
+      "id": "7e457d98-1925-4a6a-9e05-fb06130cd674",
+      "name": "Melosa Mackro"
+    },
+    {
+      "id": "1b327a3e-813a-4fc4-9d94-b948f987e151",
+      "name": "Mikel Barnwille"
+    },
+    {
+      "id": "ec9512f0-c026-4743-9159-0f7016b49d57",
+      "name": "Dyanna Levane"
+    },
     {
       "id": "93605878-00d4-4927-b6fe-c2db30cb5084",
       "name": "Olenka Addionizio"
     },
-    { "id": "22fa380b-9584-4a78-ac35-908ea0de3b75", "name": "Lorrin Palmer" },
-    { "id": "35f4acde-4b54-480e-97f0-525f9eb532c2", "name": "Valli Pollett" },
-    { "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92", "name": "Marj Jurczyk" },
-    { "id": "c5edf05e-1469-4e6b-8749-4baa647103b9", "name": "Deloris Keenor" },
-    { "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636", "name": "Neddy Doveston" },
-    { "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1", "name": "Klarika Trood" },
+    {
+      "id": "22fa380b-9584-4a78-ac35-908ea0de3b75",
+      "name": "Lorrin Palmer"
+    },
+    {
+      "id": "35f4acde-4b54-480e-97f0-525f9eb532c2",
+      "name": "Valli Pollett"
+    },
+    {
+      "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
+      "name": "Marj Jurczyk"
+    },
+    {
+      "id": "c5edf05e-1469-4e6b-8749-4baa647103b9",
+      "name": "Deloris Keenor"
+    },
+    {
+      "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
+      "name": "Neddy Doveston"
+    },
+    {
+      "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
+      "name": "Klarika Trood"
+    },
     {
       "id": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
       "name": "Timofei Bickford"
     },
-    { "id": "31264e96-cb32-42c7-97a1-d609619d3147", "name": "Carny Helling" }
+    {
+      "id": "31264e96-cb32-42c7-97a1-d609619d3147",
+      "name": "Carny Helling"
+    }
   ],
-
   "suppliers": [
-    { "id": "3149858c-620f-4536-9cda-18fbad8e18af", "name": "Filbert Seston" },
-    { "id": "b4037c34-ad19-46dc-b71e-7b59e56234ec", "name": "Hadria Gwillym" },
-    { "id": "85605178-16cf-4a46-8ac3-4243bb944c00", "name": "Joanie Sambells" },
+    {
+      "id": "3149858c-620f-4536-9cda-18fbad8e18af",
+      "name": "Filbert Seston"
+    },
+    {
+      "id": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
+      "name": "Hadria Gwillym"
+    },
+    {
+      "id": "85605178-16cf-4a46-8ac3-4243bb944c00",
+      "name": "Joanie Sambells"
+    },
     {
       "id": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
       "name": "Frederique Jammet"
     },
-    { "id": "70850c67-250d-4706-ae24-aca5c845c1a8", "name": "Maurene Heeks" },
+    {
+      "id": "70850c67-250d-4706-ae24-aca5c845c1a8",
+      "name": "Maurene Heeks"
+    },
     {
       "id": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
       "name": "Jelene Andriveau"
     },
-    { "id": "feb3d33c-f45a-4151-bb79-0daefa4c64e7", "name": "Olive Viggars" },
-    { "id": "ca068e94-c746-494c-a44b-041e1db659ca", "name": "Farlee Crook" },
-    { "id": "6e816c44-abcd-415d-adb3-c61d0d02748d", "name": "Jolene Loakes" },
-    { "id": "17410a16-53ed-4db1-8df5-bb6c955489d2", "name": "Krispin Basey" },
-    { "id": "425e6249-bd0e-4eba-8443-b67bf93a1b55", "name": "Zacharie Nevin" },
-    { "id": "ddf96504-af7e-4611-a98b-4a50e3225d8e", "name": "Johny Bertin" },
-    { "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f", "name": "Irma Shynn" },
-    { "id": "077c1761-ae93-468b-a741-9bb22e7dfff3", "name": "Wyn Brose" },
-    { "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49", "name": "Gale Horry" },
-    { "id": "d2e852a0-57aa-402a-982c-01a8126672da", "name": "Faunie Kilshaw" },
+    {
+      "id": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
+      "name": "Olive Viggars"
+    },
+    {
+      "id": "ca068e94-c746-494c-a44b-041e1db659ca",
+      "name": "Farlee Crook"
+    },
+    {
+      "id": "6e816c44-abcd-415d-adb3-c61d0d02748d",
+      "name": "Jolene Loakes"
+    },
+    {
+      "id": "17410a16-53ed-4db1-8df5-bb6c955489d2",
+      "name": "Krispin Basey"
+    },
+    {
+      "id": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
+      "name": "Zacharie Nevin"
+    },
+    {
+      "id": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
+      "name": "Johny Bertin"
+    },
+    {
+      "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
+      "name": "Irma Shynn"
+    },
+    {
+      "id": "077c1761-ae93-468b-a741-9bb22e7dfff3",
+      "name": "Wyn Brose"
+    },
+    {
+      "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
+      "name": "Gale Horry"
+    },
+    {
+      "id": "d2e852a0-57aa-402a-982c-01a8126672da",
+      "name": "Faunie Kilshaw"
+    },
     {
       "id": "819cfa43-6f22-4241-89bb-29637a12b506",
       "name": "Nicolea Du Hamel"
     },
-    { "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6", "name": "Meghan Denacamp" },
-    { "id": "7e457d98-1925-4a6a-9e05-fb06130cd674", "name": "Andrus Rodden" },
+    {
+      "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
+      "name": "Meghan Denacamp"
+    },
+    {
+      "id": "7e457d98-1925-4a6a-9e05-fb06130cd674",
+      "name": "Andrus Rodden"
+    },
     {
       "id": "1b327a3e-813a-4fc4-9d94-b948f987e151",
       "name": "Siana Francescuccio"
     },
-    { "id": "ec9512f0-c026-4743-9159-0f7016b49d57", "name": "Haze Pechard" },
-    { "id": "93605878-00d4-4927-b6fe-c2db30cb5084", "name": "Damara Warbrick" },
-    { "id": "22fa380b-9584-4a78-ac35-908ea0de3b75", "name": "Kaylil Gairdner" },
-    { "id": "35f4acde-4b54-480e-97f0-525f9eb532c2", "name": "Alvie Gilchrist" },
-    { "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92", "name": "Garry Obert" },
-    { "id": "c5edf05e-1469-4e6b-8749-4baa647103b9", "name": "Jamie Siccombe" },
-    { "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636", "name": "Theo Scaplehorn" },
-    { "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1", "name": "Bailey Tollfree" },
-    { "id": "88bc60c9-07d6-4966-99c8-19f3c11be4e2", "name": "Dorthea Spyvye" },
+    {
+      "id": "ec9512f0-c026-4743-9159-0f7016b49d57",
+      "name": "Haze Pechard"
+    },
+    {
+      "id": "93605878-00d4-4927-b6fe-c2db30cb5084",
+      "name": "Damara Warbrick"
+    },
+    {
+      "id": "22fa380b-9584-4a78-ac35-908ea0de3b75",
+      "name": "Kaylil Gairdner"
+    },
+    {
+      "id": "35f4acde-4b54-480e-97f0-525f9eb532c2",
+      "name": "Alvie Gilchrist"
+    },
+    {
+      "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
+      "name": "Garry Obert"
+    },
+    {
+      "id": "c5edf05e-1469-4e6b-8749-4baa647103b9",
+      "name": "Jamie Siccombe"
+    },
+    {
+      "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
+      "name": "Theo Scaplehorn"
+    },
+    {
+      "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
+      "name": "Bailey Tollfree"
+    },
+    {
+      "id": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
+      "name": "Dorthea Spyvye"
+    },
     {
       "id": "31264e96-cb32-42c7-97a1-d609619d3147",
       "name": "Gilbertina Gradly"
     }
   ],
-
   "cashiers": [
     {
       "id": "4d3cbf71-4456-4fb5-8822-97624b1102f0",
       "name": "Frederich Hancell"
     },
-    { "id": "644a5a18-3ccf-46ff-a7c1-5d408056c30b", "name": "Nathalie Oller" },
-    { "id": "d7a63e0b-d8fc-4917-844e-00c45eb2f694", "name": "Tandi Gullivent" },
+    {
+      "id": "644a5a18-3ccf-46ff-a7c1-5d408056c30b",
+      "name": "Nathalie Oller"
+    },
+    {
+      "id": "d7a63e0b-d8fc-4917-844e-00c45eb2f694",
+      "name": "Tandi Gullivent"
+    },
     {
       "id": "ec10641d-a612-4134-93c8-ba89ce8a13b1",
       "name": "Filberte Klaiser"
     },
-    { "id": "b83f1ba0-5118-4c6c-87fa-22a4c9b6d04a", "name": "Berget Lanston" },
-    { "id": "2343ef2e-6bd2-45a1-abed-c76ef55f2dcd", "name": "Yorgos Chamney" },
-    { "id": "143b6cd5-b444-4cf7-a7b6-b98d65404db9", "name": "Gail Corbally" },
+    {
+      "id": "b83f1ba0-5118-4c6c-87fa-22a4c9b6d04a",
+      "name": "Berget Lanston"
+    },
+    {
+      "id": "2343ef2e-6bd2-45a1-abed-c76ef55f2dcd",
+      "name": "Yorgos Chamney"
+    },
+    {
+      "id": "143b6cd5-b444-4cf7-a7b6-b98d65404db9",
+      "name": "Gail Corbally"
+    },
     {
       "id": "8047d529-ae31-4355-951a-2c8a2659e32f",
       "name": "Ernesta Woodyatt"
     },
-    { "id": "0e42a74a-c0b4-45bd-866d-25d5c3733822", "name": "Melonie Robel" },
+    {
+      "id": "0e42a74a-c0b4-45bd-866d-25d5c3733822",
+      "name": "Melonie Robel"
+    },
     {
       "id": "029f72d4-8784-4928-8a30-1fc54b88c3dc",
       "name": "Padgett O'Connell"
     },
-    { "id": "a0729262-c601-43c5-9b33-030e73cc4e23", "name": "Jeffy Donson" },
-    { "id": "5d564f3b-7601-4f67-82c5-5a4faeee6a91", "name": "Marielle Danzig" },
-    { "id": "ade0afb0-3a44-4e69-803d-955139884557", "name": "Bail McPhee" },
-    { "id": "e6e255b9-dd88-479a-94c7-bfe31e012e5b", "name": "Katherine Laye" },
-    { "id": "85451fe2-9f52-4cb2-b37a-1f8b017038cc", "name": "Skip Justice" },
-    { "id": "d5e64a30-6645-45ee-9a65-840e8821ae4e", "name": "Kassie Camelli" },
-    { "id": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90", "name": "Salli Moscon" },
+    {
+      "id": "a0729262-c601-43c5-9b33-030e73cc4e23",
+      "name": "Jeffy Donson"
+    },
+    {
+      "id": "5d564f3b-7601-4f67-82c5-5a4faeee6a91",
+      "name": "Marielle Danzig"
+    },
+    {
+      "id": "ade0afb0-3a44-4e69-803d-955139884557",
+      "name": "Bail McPhee"
+    },
+    {
+      "id": "e6e255b9-dd88-479a-94c7-bfe31e012e5b",
+      "name": "Katherine Laye"
+    },
+    {
+      "id": "85451fe2-9f52-4cb2-b37a-1f8b017038cc",
+      "name": "Skip Justice"
+    },
+    {
+      "id": "d5e64a30-6645-45ee-9a65-840e8821ae4e",
+      "name": "Kassie Camelli"
+    },
+    {
+      "id": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90",
+      "name": "Salli Moscon"
+    },
     {
       "id": "d9a35182-047d-4f7f-b6ac-59aa7a562a8f",
       "name": "Valaree Cabrales"
@@ -1351,25 +1583,49 @@
       "id": "a510f26e-bb6a-44b0-8fa2-bd144451defd",
       "name": "Georgianna Anelay"
     },
-    { "id": "27799b3f-9c1e-4d53-af0a-a2776710659a", "name": "Tana Stears" },
-    { "id": "d35eae73-f5bf-467b-95d7-6b6a887bff9e", "name": "Tome Belcher" },
-    { "id": "1636be28-4cd3-4ce6-b35e-d39bf17d94b7", "name": "Lise Udy" },
+    {
+      "id": "27799b3f-9c1e-4d53-af0a-a2776710659a",
+      "name": "Tana Stears"
+    },
+    {
+      "id": "d35eae73-f5bf-467b-95d7-6b6a887bff9e",
+      "name": "Tome Belcher"
+    },
+    {
+      "id": "1636be28-4cd3-4ce6-b35e-d39bf17d94b7",
+      "name": "Lise Udy"
+    },
     {
       "id": "7084dd0c-73e5-456c-a978-dd22f0c73eb2",
       "name": "Emalia Tabbernor"
     },
-    { "id": "af284f94-4220-41c4-9850-d6f2b04196cf", "name": "Miguela Podmore" },
+    {
+      "id": "af284f94-4220-41c4-9850-d6f2b04196cf",
+      "name": "Miguela Podmore"
+    },
     {
       "id": "f730928f-e8e3-4958-b7cc-73ce21a87991",
       "name": "Laraine Murricanes"
     },
-    { "id": "1325601e-8bde-44b3-8466-d96f48e5db01", "name": "Doyle Elner" },
+    {
+      "id": "1325601e-8bde-44b3-8466-d96f48e5db01",
+      "name": "Doyle Elner"
+    },
     {
       "id": "eefe90df-fff3-40a0-86ce-6e4c09501fa9",
       "name": "Sybille De Cruze"
     },
-    { "id": "5c9ef450-2920-45c1-9fde-642cae241f7f", "name": "Hollie Jeandon" },
-    { "id": "ff08a66a-2438-45b6-a620-5a86dbc9b1cd", "name": "Virgie Carbery" },
-    { "id": "18d30b42-eaf1-4f26-bb43-66f1d58a657b", "name": "Quintus Piatti" }
+    {
+      "id": "5c9ef450-2920-45c1-9fde-642cae241f7f",
+      "name": "Hollie Jeandon"
+    },
+    {
+      "id": "ff08a66a-2438-45b6-a620-5a86dbc9b1cd",
+      "name": "Virgie Carbery"
+    },
+    {
+      "id": "18d30b42-eaf1-4f26-bb43-66f1d58a657b",
+      "name": "Quintus Piatti"
+    }
   ]
 }
