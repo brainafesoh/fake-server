@@ -268,222 +268,342 @@
       "code": "0135-0118",
       "customerId": "3149858c-620f-4536-9cda-18fbad8e18af",
       "cashierId": "4d3cbf71-4456-4fb5-8822-97624b1102f0",
-      "date": "3/1/2019"
+      "date": "3/1/2019",
+      "status": "Draft",
+      "creationDate": "2021-05-08",
+      "lastModificationDate": "2021-05-12",
+      "totalCost": 6920239.8
     },
     {
       "id": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
       "code": "0591-3758",
       "customerId": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
       "cashierId": "644a5a18-3ccf-46ff-a7c1-5d408056c30b",
-      "date": "12/29/2020"
+      "date": "12/29/2020",
+      "status": "Draft",
+      "creationDate": "2021-02-06",
+      "lastModificationDate": "2021-01-10",
+      "totalCost": 745786.65
     },
     {
       "id": "41b0e677-5972-4425-a520-e881bfb6a06a",
       "code": "36987-1655",
       "customerId": "85605178-16cf-4a46-8ac3-4243bb944c00",
       "cashierId": "d7a63e0b-d8fc-4917-844e-00c45eb2f694",
-      "date": "11/10/2021"
+      "date": "11/10/2021",
+      "status": "Draft",
+      "creationDate": "2021-04-06",
+      "lastModificationDate": "2021-02-08",
+      "totalCost": 5487369.0
     },
     {
       "id": "16fe9555-133d-4631-89c6-1d6ac2c81ee0",
       "code": "54799-432",
       "customerId": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
       "cashierId": "ec10641d-a612-4134-93c8-ba89ce8a13b1",
-      "date": "9/18/2021"
+      "date": "9/18/2021",
+      "status": "Paid",
+      "creationDate": "2021-01-22",
+      "lastModificationDate": "2021-05-26",
+      "totalCost": 5508182.0
     },
     {
       "id": "72921664-5745-449a-a04d-b7192dc347a0",
       "code": "21695-515",
       "customerId": "70850c67-250d-4706-ae24-aca5c845c1a8",
       "cashierId": "b83f1ba0-5118-4c6c-87fa-22a4c9b6d04a",
-      "date": "6/27/2021"
+      "date": "6/27/2021",
+      "status": "Paid",
+      "creationDate": "2021-06-11",
+      "lastModificationDate": "2021-09-19",
+      "totalCost": 506546.62
     },
     {
       "id": "79f9b879-4b21-4004-9f57-ef54becf06e8",
       "code": "66116-400",
       "customerId": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
       "cashierId": "2343ef2e-6bd2-45a1-abed-c76ef55f2dcd",
-      "date": "12/16/2017"
+      "date": "12/16/2017",
+      "status": "Paid",
+      "creationDate": "2021-01-20",
+      "lastModificationDate": "2021-04-17",
+      "totalCost": 398737.83
     },
     {
       "id": "1e1ef2a3-75ed-4d91-9e2f-52da3d045b79",
       "code": "60505-3160",
       "customerId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
       "cashierId": "143b6cd5-b444-4cf7-a7b6-b98d65404db9",
-      "date": "11/13/2017"
+      "date": "11/13/2017",
+      "status": "Shipped",
+      "creationDate": "2021-03-29",
+      "lastModificationDate": "2021-07-26",
+      "totalCost": 2117208.0
     },
     {
       "id": "a3369209-8373-4268-8e84-e4b5320379c3",
       "code": "11084-732",
       "customerId": "ca068e94-c746-494c-a44b-041e1db659ca",
       "cashierId": "8047d529-ae31-4355-951a-2c8a2659e32f",
-      "date": "1/1/2019"
+      "date": "1/1/2019",
+      "status": "Shipped",
+      "creationDate": "2020-12-02",
+      "lastModificationDate": "2021-06-02",
+      "totalCost": 7708917.0
     },
     {
       "id": "9f12a071-9378-43f1-8b2e-621a4c764608",
       "code": "57955-2291",
       "customerId": "6e816c44-abcd-415d-adb3-c61d0d02748d",
       "cashierId": "0e42a74a-c0b4-45bd-866d-25d5c3733822",
-      "date": "4/24/2018"
+      "date": "4/24/2018",
+      "status": "Shipped",
+      "creationDate": "2021-09-12",
+      "lastModificationDate": "2020-12-10",
+      "totalCost": 7224322.01
     },
     {
       "id": "4ef58081-df32-45dc-ab04-27118dcbf40b",
       "code": "64141-866",
       "customerId": "17410a16-53ed-4db1-8df5-bb6c955489d2",
       "cashierId": "029f72d4-8784-4928-8a30-1fc54b88c3dc",
-      "date": "1/15/2019"
+      "date": "1/15/2019",
+      "status": "Shipped",
+      "creationDate": "2021-01-13",
+      "lastModificationDate": "2021-05-09",
+      "totalCost": 4690926.0
     },
     {
       "id": "e116c794-408f-4d4e-b93a-7d0172fc9636",
       "code": "53808-0388",
       "customerId": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
       "cashierId": "a0729262-c601-43c5-9b33-030e73cc4e23",
-      "date": "10/3/2019"
+      "date": "10/3/2019",
+      "status": "Cancelled",
+      "creationDate": "2021-03-02",
+      "lastModificationDate": "2020-11-11",
+      "totalCost": 557913.38
     },
     {
       "id": "30b30811-68c8-4ec5-845b-9316ea79bc50",
       "code": "35356-717",
       "customerId": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
       "cashierId": "5d564f3b-7601-4f67-82c5-5a4faeee6a91",
-      "date": "10/27/2020"
+      "date": "10/27/2020",
+      "status": "Cancelled",
+      "creationDate": "2021-03-17",
+      "lastModificationDate": "2021-09-06",
+      "totalCost": 5504231.0
     },
     {
       "id": "4c93a12f-42f9-4911-b265-ab5c624052ba",
       "code": "0185-0771",
       "customerId": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
       "cashierId": "ade0afb0-3a44-4e69-803d-955139884557",
-      "date": "12/29/2017"
+      "date": "12/29/2017",
+      "status": "Cancelled",
+      "creationDate": "2021-03-08",
+      "lastModificationDate": "2021-05-02",
+      "totalCost": 245107.56
     },
     {
       "id": "608bf982-bcb5-4e42-914b-6253e90b40f6",
       "code": "36987-3335",
       "customerId": "077c1761-ae93-468b-a741-9bb22e7dfff3",
       "cashierId": "e6e255b9-dd88-479a-94c7-bfe31e012e5b",
-      "date": "4/14/2018"
+      "date": "4/14/2018",
+      "status": "Cancelled",
+      "creationDate": "2021-02-25",
+      "lastModificationDate": "2020-12-22",
+      "totalCost": 7629223.35
     },
     {
       "id": "1a98a5d0-8b37-41a1-99fa-569a30faee83",
       "code": "98132-889",
       "customerId": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
       "cashierId": "85451fe2-9f52-4cb2-b37a-1f8b017038cc",
-      "date": "7/22/2018"
+      "date": "7/22/2018",
+      "status": "Cancelled",
+      "creationDate": "2020-12-03",
+      "lastModificationDate": "2021-01-21",
+      "totalCost": 5024554.0
     },
     {
       "id": "b86bc51b-1fba-46d1-a063-640395b15187",
       "code": "58982-010",
       "customerId": "d2e852a0-57aa-402a-982c-01a8126672da",
       "cashierId": "d5e64a30-6645-45ee-9a65-840e8821ae4e",
-      "date": "8/1/2020"
+      "date": "8/1/2020",
+      "status": "Cancelled",
+      "creationDate": "2021-04-05",
+      "lastModificationDate": "2021-07-27",
+      "totalCost": 3230584.95
     },
     {
       "id": "f87f87cc-39d4-434a-a728-2bd87562eca0",
       "code": "55154-5034",
       "customerId": "819cfa43-6f22-4241-89bb-29637a12b506",
       "cashierId": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90",
-      "date": "9/28/2021"
+      "date": "9/28/2021",
+      "status": "Cancelled",
+      "creationDate": "2021-06-22",
+      "lastModificationDate": "2021-04-29",
+      "totalCost": 5570861.51
     },
     {
       "id": "84d26f42-58a8-4aa9-a7e5-b3d8beca674b",
       "code": "10544-618",
       "customerId": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
       "cashierId": "d9a35182-047d-4f7f-b6ac-59aa7a562a8f",
-      "date": "9/29/2021"
+      "date": "9/29/2021",
+      "status": "Cancelled",
+      "creationDate": "2021-10-02",
+      "lastModificationDate": "2021-03-18",
+      "totalCost": 2013102.26
     },
     {
       "id": "70503593-8570-441c-a922-2faa1624bb7c",
       "code": "0641-6025",
       "customerId": "7e457d98-1925-4a6a-9e05-fb06130cd674",
       "cashierId": "a510f26e-bb6a-44b0-8fa2-bd144451defd",
-      "date": "6/27/2021"
+      "date": "6/27/2021",
+      "status": "Cancelled",
+      "creationDate": "2021-03-21",
+      "lastModificationDate": "2021-08-16",
+      "totalCost": 386900.96
     },
     {
       "id": "a77610a7-004a-4ce5-9328-049860dda7f2",
       "code": "64725-0209",
       "customerId": "1b327a3e-813a-4fc4-9d94-b948f987e151",
       "cashierId": "27799b3f-9c1e-4d53-af0a-a2776710659a",
-      "date": "7/15/2021"
+      "date": "7/15/2021",
+      "status": "Cancelled",
+      "creationDate": "2021-10-03",
+      "lastModificationDate": "2021-06-11",
+      "totalCost": 3248593.42
     },
     {
       "id": "474d3588-256c-462d-866e-f05cf7c60388",
       "code": "68737-238",
       "customerId": "ec9512f0-c026-4743-9159-0f7016b49d57",
       "cashierId": "d35eae73-f5bf-467b-95d7-6b6a887bff9e",
-      "date": "6/17/2020"
+      "date": "6/17/2020",
+      "status": "Draft",
+      "creationDate": "2021-02-16",
+      "lastModificationDate": "2021-09-19",
+      "totalCost": 7315747.0
     },
     {
       "id": "f4f4c23f-36f8-455f-946a-e0108f17a3e8",
       "code": "57520-0685",
       "customerId": "93605878-00d4-4927-b6fe-c2db30cb5084",
       "cashierId": "1636be28-4cd3-4ce6-b35e-d39bf17d94b7",
-      "date": "3/4/2021"
+      "date": "3/4/2021",
+      "status": "Draft",
+      "creationDate": "2021-10-02",
+      "lastModificationDate": "2021-02-05",
+      "totalCost": 2201428.77
     },
     {
       "id": "a2760d7c-75ff-4b96-aa1f-4f005d7e4a68",
       "code": "0378-1045",
       "customerId": "22fa380b-9584-4a78-ac35-908ea0de3b75",
       "cashierId": "7084dd0c-73e5-456c-a978-dd22f0c73eb2",
-      "date": "1/27/2018"
+      "date": "1/27/2018",
+      "status": "Draft",
+      "creationDate": "2021-06-14",
+      "lastModificationDate": "2021-02-28",
+      "totalCost": 9601349.0
     },
     {
       "id": "705aa875-f551-4965-928a-24506822cf26",
       "code": "0363-4009",
       "customerId": "35f4acde-4b54-480e-97f0-525f9eb532c2",
       "cashierId": "af284f94-4220-41c4-9850-d6f2b04196cf",
-      "date": "6/17/2019"
+      "date": "6/17/2019",
+      "status": "Paid",
+      "creationDate": "2021-02-24",
+      "lastModificationDate": "2021-07-17",
+      "totalCost": 1986006.1
     },
     {
       "id": "9007db76-dc44-4f9b-b081-866ad7ea20ff",
       "code": "0378-3515",
       "customerId": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
       "cashierId": "f730928f-e8e3-4958-b7cc-73ce21a87991",
-      "date": "8/31/2021"
+      "date": "8/31/2021",
+      "status": "Paid",
+      "creationDate": "2021-06-11",
+      "lastModificationDate": "2021-05-31",
+      "totalCost": 8398462.0
     },
     {
       "id": "531ae5b7-b7e6-4e98-aaad-50b215895a57",
       "code": "0781-6023",
       "customerId": "c5edf05e-1469-4e6b-8749-4baa647103b9",
       "cashierId": "1325601e-8bde-44b3-8466-d96f48e5db01",
-      "date": "11/21/2020"
+      "date": "11/21/2020",
+      "status": "Paid",
+      "creationDate": "2021-07-12",
+      "lastModificationDate": "2021-09-27",
+      "totalCost": 2002004.26
     },
     {
       "id": "06d2040e-37f0-4b8f-bd6a-60a3a4293e83",
       "code": "41190-187",
       "customerId": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
       "cashierId": "eefe90df-fff3-40a0-86ce-6e4c09501fa9",
-      "date": "7/27/2021"
+      "date": "7/27/2021",
+      "status": "Shipped",
+      "creationDate": "2020-11-28",
+      "lastModificationDate": "2021-05-08",
+      "totalCost": 2915149.0
     },
     {
       "id": "2142103b-65b1-45cf-891a-7cb4c9ba0c03",
       "code": "52670-566",
       "customerId": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
       "cashierId": "5c9ef450-2920-45c1-9fde-642cae241f7f",
-      "date": "3/9/2021"
+      "date": "3/9/2021",
+      "status": "Shipped",
+      "creationDate": "2021-02-01",
+      "lastModificationDate": "2021-01-20",
+      "totalCost": 8530211.0
     },
     {
       "id": "70dc3ab9-e97a-4c47-b72b-cd4ea4d61e0a",
       "code": "61786-006",
       "customerId": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
       "cashierId": "ff08a66a-2438-45b6-a620-5a86dbc9b1cd",
-      "date": "3/23/2022"
+      "date": "3/23/2022",
+      "status": "Shipped",
+      "creationDate": "2021-09-02",
+      "lastModificationDate": "2021-09-25",
+      "totalCost": 4043637.29
     },
     {
       "id": "32d6a5b2-a02d-477e-922a-0415a636a27d",
       "code": "35356-059",
       "customerId": "31264e96-cb32-42c7-97a1-d609619d3147",
       "cashierId": "18d30b42-eaf1-4f26-bb43-66f1d58a657b",
-      "date": "3/10/2021"
+      "date": "3/10/2021",
+      "status": "Cancelled",
+      "creationDate": "2021-01-08",
+      "lastModificationDate": "2021-04-24",
+      "totalCost": 3221886.44
     }
   ],
   "purchases": [
     {
       "id": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
       "code": "0135-0999",
-      "supplierId": "819cfa43-6f22-4241-89bb-29637a12b506",
+      "supplierId": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
       "date": "3/1/2019",
       "totalCost": 27056.78,
       "creationDate": "2021-06-02",
       "lastModificationDate": "2021-04-05",
-      "status": "Sent"
+      "status": "Shipped"
     },
     {
       "id": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
@@ -806,6 +926,14 @@
       "supplierId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
       "lastModificationDate": "2021-11-04",
       "id": "D7jOrxj"
+    },
+    {
+      "status": "Draft",
+      "creationDate": "2021-11-08",
+      "code": "0135-9019",
+      "supplierId": "3149858c-620f-4536-9cda-18fbad8e18af",
+      "lastModificationDate": "2021-11-08",
+      "id": "R46hmTY"
     }
   ],
   "articleSales": [
@@ -1260,6 +1388,53 @@
       "quantity": 43,
       "unitPrice": 493,
       "totalPrice": 62050
+    },
+    {
+      "articleId": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
+      "quantity": 20,
+      "unitPrice": 20,
+      "totalPrice": 4000,
+      "id": "Vy-yzL0"
+    },
+    {
+      "articleId": "4b2da3da-c047-4525-8395-a2fdb4f5e88b",
+      "quantity": 20,
+      "unitPrice": 10,
+      "totalPrice": 200,
+      "id": "jBanjtC"
+    },
+    {
+      "articleId": "8f7829bd-fe8b-4fa4-8feb-c8f4b6ee0a8f",
+      "quantity": 34,
+      "unitPrice": 21,
+      "totalPrice": 12212,
+      "purchaseId": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
+      "id": "n8NJWE1"
+    },
+    {
+      "articleId": "f2da3ee3-ba86-4f8f-aca1-86905ec881b0",
+      "quantity": 90,
+      "unitPrice": 10,
+      "totalPrice": 900,
+      "purchaseId": "e072ba41-559c-45e2-b33a-fe50bfb0380d",
+      "id": "AYQtvzn"
+    },
+    {
+      "articleId": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
+      "quantity": 90,
+      "purchaseId": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
+      "id": "U54Aqje",
+      "unitPrice": 650,
+      "totalPrice": 45000
+    },
+    {
+      "isTrusted": true,
+      "articleId": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
+      "quantity": 78,
+      "unitPrice": 7889,
+      "totalPrice": 9876543,
+      "purchaseId": "-NQTJWP",
+      "id": "_6Yqfd7"
     }
   ],
   "customers": [
