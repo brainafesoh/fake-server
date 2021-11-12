@@ -1519,123 +1519,213 @@
   "customers": [
     {
       "id": "3149858c-620f-4536-9cda-18fbad8e18af",
-      "name": "Gleda Perelli"
+      "name": "Gleda Perelli",
+      "phone": "799-776-6259",
+      "lastPurchaseDate": "9/22/2020",
+      "totalExpenditure": "$8.56"
     },
     {
       "id": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
-      "name": "Jefferson Wightman"
+      "name": "Jefferson Wightman",
+      "phone": "474-923-2791",
+      "lastPurchaseDate": "4/17/2021",
+      "totalExpenditure": "$4.49"
     },
     {
       "id": "85605178-16cf-4a46-8ac3-4243bb944c00",
-      "name": "Cindie Coppin"
+      "name": "Cindie Coppin",
+      "phone": "316-241-5719",
+      "lastPurchaseDate": "5/27/2021",
+      "totalExpenditure": "$1.70"
     },
     {
       "id": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
-      "name": "Elston Capnerhurst"
+      "name": "Elston Capnerhurst",
+      "phone": "487-144-5935",
+      "lastPurchaseDate": "6/27/2021",
+      "totalExpenditure": "$5.86"
     },
     {
       "id": "70850c67-250d-4706-ae24-aca5c845c1a8",
-      "name": "Lissy Conroy"
+      "name": "Lissy Conroy",
+      "phone": "495-608-1450",
+      "lastPurchaseDate": "5/2/2021",
+      "totalExpenditure": "$8.26"
     },
     {
       "id": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
-      "name": "Emilee Tampen"
+      "name": "Emilee Tampen",
+      "phone": "449-579-4517",
+      "lastPurchaseDate": "12/25/2020",
+      "totalExpenditure": "$6.31"
     },
     {
       "id": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
-      "name": "Libbey Rubinovici"
+      "name": "Libbey Rubinovici",
+      "phone": "686-532-0019",
+      "lastPurchaseDate": "11/25/2020",
+      "totalExpenditure": "$6.29"
     },
     {
       "id": "ca068e94-c746-494c-a44b-041e1db659ca",
-      "name": "Alexis Goulston"
+      "name": "Alexis Goulston",
+      "phone": "212-981-6543",
+      "lastPurchaseDate": "8/27/2021",
+      "totalExpenditure": "$3.27"
     },
     {
       "id": "6e816c44-abcd-415d-adb3-c61d0d02748d",
-      "name": "Oriana Peskin"
+      "name": "Oriana Peskin",
+      "phone": "554-685-8402",
+      "lastPurchaseDate": "4/11/2021",
+      "totalExpenditure": "$5.13"
     },
     {
       "id": "17410a16-53ed-4db1-8df5-bb6c955489d2",
-      "name": "Gratia Squirrell"
+      "name": "Gratia Squirrell",
+      "phone": "262-120-1889",
+      "lastPurchaseDate": "11/4/2020",
+      "totalExpenditure": "$6.27"
     },
     {
       "id": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
-      "name": "Ashlan Castelletti"
+      "name": "Ashlan Castelletti",
+      "phone": "710-907-6525",
+      "lastPurchaseDate": "3/14/2021",
+      "totalExpenditure": "$1.13"
     },
     {
       "id": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
-      "name": "Marylin Lindenfeld"
+      "name": "Marylin Lindenfeld",
+      "phone": "744-853-0605",
+      "lastPurchaseDate": "7/29/2021",
+      "totalExpenditure": "$8.94"
     },
     {
       "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
-      "name": "Moses Mordaunt"
+      "name": "Moses Mordaunt",
+      "phone": "963-436-4359",
+      "lastPurchaseDate": "6/10/2021",
+      "totalExpenditure": "$3.45"
     },
     {
       "id": "077c1761-ae93-468b-a741-9bb22e7dfff3",
-      "name": "Robbyn Kaufman"
+      "name": "Robbyn Kaufman",
+      "phone": "161-750-1845",
+      "lastPurchaseDate": "6/10/2021",
+      "totalExpenditure": "$2.34"
     },
     {
       "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
-      "name": "Pattin Clail"
+      "name": "Pattin Clail",
+      "phone": "870-264-5875",
+      "lastPurchaseDate": "6/13/2021",
+      "totalExpenditure": "$0.02"
     },
     {
       "id": "d2e852a0-57aa-402a-982c-01a8126672da",
-      "name": "Millie Jovasevic"
+      "name": "Millie Jovasevic",
+      "phone": "954-958-9576",
+      "lastPurchaseDate": "5/13/2021",
+      "totalExpenditure": "$3.18"
     },
     {
       "id": "819cfa43-6f22-4241-89bb-29637a12b506",
-      "name": "Jayme Mathivet"
+      "name": "Jayme Mathivet",
+      "phone": "232-769-1669",
+      "lastPurchaseDate": "5/3/2021",
+      "totalExpenditure": "$6.82"
     },
     {
       "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
-      "name": "Modesty Phelp"
+      "name": "Modesty Phelp",
+      "phone": "363-443-9582",
+      "lastPurchaseDate": "12/10/2020",
+      "totalExpenditure": "$4.14"
     },
     {
       "id": "7e457d98-1925-4a6a-9e05-fb06130cd674",
-      "name": "Melosa Mackro"
+      "name": "Melosa Mackro",
+      "phone": "168-243-2877",
+      "lastPurchaseDate": "1/18/2021",
+      "totalExpenditure": "$6.50"
     },
     {
       "id": "1b327a3e-813a-4fc4-9d94-b948f987e151",
-      "name": "Mikel Barnwille"
+      "name": "Mikel Barnwille",
+      "phone": "577-454-5322",
+      "lastPurchaseDate": "5/17/2021",
+      "totalExpenditure": "$6.22"
     },
     {
       "id": "ec9512f0-c026-4743-9159-0f7016b49d57",
-      "name": "Dyanna Levane"
+      "name": "Dyanna Levane",
+      "phone": "826-767-0491",
+      "lastPurchaseDate": "1/14/2021",
+      "totalExpenditure": "$6.75"
     },
     {
       "id": "93605878-00d4-4927-b6fe-c2db30cb5084",
-      "name": "Olenka Addionizio"
+      "name": "Olenka Addionizio",
+      "phone": "447-188-3523",
+      "lastPurchaseDate": "4/8/2021",
+      "totalExpenditure": "$4.78"
     },
     {
       "id": "22fa380b-9584-4a78-ac35-908ea0de3b75",
-      "name": "Lorrin Palmer"
+      "name": "Lorrin Palmer",
+      "phone": "565-664-1701",
+      "lastPurchaseDate": "7/5/2021",
+      "totalExpenditure": "$3.85"
     },
     {
       "id": "35f4acde-4b54-480e-97f0-525f9eb532c2",
-      "name": "Valli Pollett"
+      "name": "Valli Pollett",
+      "phone": "721-308-1664",
+      "lastPurchaseDate": "11/15/2020",
+      "totalExpenditure": "$4.27"
     },
     {
       "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
-      "name": "Marj Jurczyk"
+      "name": "Marj Jurczyk",
+      "phone": "976-818-1796",
+      "lastPurchaseDate": "3/4/2021",
+      "totalExpenditure": "$8.43"
     },
     {
       "id": "c5edf05e-1469-4e6b-8749-4baa647103b9",
-      "name": "Deloris Keenor"
+      "name": "Deloris Keenor",
+      "phone": "744-747-8951",
+      "lastPurchaseDate": "8/2/2021",
+      "totalExpenditure": "$3.79"
     },
     {
       "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
-      "name": "Neddy Doveston"
+      "name": "Neddy Doveston",
+      "phone": "714-619-3847",
+      "lastPurchaseDate": "6/6/2021",
+      "totalExpenditure": "$1.15"
     },
     {
       "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
-      "name": "Klarika Trood"
+      "name": "Klarika Trood",
+      "phone": "532-393-3756",
+      "lastPurchaseDate": "8/5/2021",
+      "totalExpenditure": "$8.65"
     },
     {
       "id": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
-      "name": "Timofei Bickford"
+      "name": "Timofei Bickford",
+      "phone": "156-422-8671",
+      "lastPurchaseDate": "4/28/2021",
+      "totalExpenditure": "$8.11"
     },
     {
       "id": "31264e96-cb32-42c7-97a1-d609619d3147",
-      "name": "Carny Helling"
+      "name": "Carny Helling",
+      "phone": "660-825-8579",
+      "lastPurchaseDate": "7/1/2021",
+      "totalExpenditure": "$3.64"
     }
   ],
   "suppliers": [
