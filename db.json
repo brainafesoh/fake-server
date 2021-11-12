@@ -934,6 +934,22 @@
       "supplierId": "3149858c-620f-4536-9cda-18fbad8e18af",
       "lastModificationDate": "2021-11-08",
       "id": "R46hmTY"
+    },
+    {
+      "status": "Draft",
+      "creationDate": "2021-11-12",
+      "code": "0135-9880",
+      "supplierId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
+      "lastModificationDate": "2021-11-12",
+      "id": "MhXtzJB"
+    },
+    {
+      "status": "Draft",
+      "creationDate": "2021-11-12",
+      "code": "0591-989850",
+      "supplierId": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
+      "lastModificationDate": "2021-11-12",
+      "id": "lLbyZc0"
     }
   ],
   "saleArticles": [
@@ -949,7 +965,7 @@
       "id": "69028d06-17ee-4e34-ac8a-c0873c444014",
       "articleId": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
       "saleId": "5ae5fe30-0cef-42d9-9d3d-176aa8bcb243",
-      "quantity": 17,
+      "quantity": "175",
       "unitPrice": "41279",
       "totalPrice": 41313
     },
@@ -1490,6 +1506,14 @@
       "totalPrice": 333222,
       "purchaseId": "ioReAeu",
       "id": "8reXAr4"
+    },
+    {
+      "articleId": "9780e92a-99b2-4819-a5ca-a87acdcf09e6",
+      "purchaseId": "16fe9555-133d-4631-89c6-1d6ac2c81ee0",
+      "id": "L2qzueU",
+      "quantity": 999,
+      "unitPrice": 999,
+      "totalPrice": 9888
     }
   ],
   "customers": [
@@ -1617,123 +1641,273 @@
   "suppliers": [
     {
       "id": "3149858c-620f-4536-9cda-18fbad8e18af",
-      "name": "Filbert Seston"
+      "name": "Filbert Seston",
+      "totalPurchasesCost": "$1969409.98",
+      "email": "mbarnewall0@state.gov",
+      "phone": "+81 668 787 3229",
+      "address": "0650 Independence Pass",
+      "lastTransactionDate": "12/8/2020"
     },
     {
       "id": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
-      "name": "Hadria Gwillym"
+      "name": "Hadria Gwillym",
+      "totalPurchasesCost": "$1609092.96",
+      "email": "mgai1@stanford.edu",
+      "phone": "+51 865 964 0823",
+      "address": "7 Namekagon Hill",
+      "lastTransactionDate": "1/15/2021"
     },
     {
       "id": "85605178-16cf-4a46-8ac3-4243bb944c00",
-      "name": "Joanie Sambells"
+      "name": "Joanie Sambells",
+      "totalPurchasesCost": "$1862642.65",
+      "email": "sculleton2@rediff.com",
+      "phone": "+48 511 293 4875",
+      "address": "7448 Dorton Parkway",
+      "lastTransactionDate": "5/14/2021"
     },
     {
       "id": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
-      "name": "Frederique Jammet"
+      "name": "Frederique Jammet",
+      "totalPurchasesCost": "$81770.96",
+      "email": "vbrodway3@foxnews.com",
+      "phone": "+63 830 619 3189",
+      "address": "48171 Hermina Alley",
+      "lastTransactionDate": "12/13/2020"
     },
     {
       "id": "70850c67-250d-4706-ae24-aca5c845c1a8",
-      "name": "Maurene Heeks"
+      "name": "Maurene Heeks",
+      "totalPurchasesCost": "$189702.86",
+      "email": "rknight4@marketwatch.com",
+      "phone": "+81 953 196 7259",
+      "address": "76601 Kingsford Street",
+      "lastTransactionDate": "10/17/2020"
     },
     {
       "id": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
-      "name": "Jelene Andriveau"
+      "name": "Jelene Andriveau",
+      "totalPurchasesCost": "$1229639.66",
+      "email": "fwallage5@multiply.com",
+      "phone": "+380 897 253 9620",
+      "address": "7 Menomonie Plaza",
+      "lastTransactionDate": "10/28/2020"
     },
     {
       "id": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
-      "name": "Olive Viggars"
+      "name": "Olive Viggars",
+      "totalPurchasesCost": "$1797640.98",
+      "email": "pskaife6@pbs.org",
+      "phone": "+33 131 349 1355",
+      "address": "26775 Bluestem Street",
+      "lastTransactionDate": "1/20/2021"
     },
     {
       "id": "ca068e94-c746-494c-a44b-041e1db659ca",
-      "name": "Farlee Crook"
+      "name": "Farlee Crook",
+      "totalPurchasesCost": "$1627630.85",
+      "email": "jmichael7@tiny.cc",
+      "phone": "+7 739 842 8466",
+      "address": "2 Longview Parkway",
+      "lastTransactionDate": "8/14/2021"
     },
     {
       "id": "6e816c44-abcd-415d-adb3-c61d0d02748d",
-      "name": "Jolene Loakes"
+      "name": "Jolene Loakes",
+      "totalPurchasesCost": "$1469483.47",
+      "email": "mcanland8@t.co",
+      "phone": "+33 223 458 0000",
+      "address": "77 Reinke Terrace",
+      "lastTransactionDate": "2/15/2021"
     },
     {
       "id": "17410a16-53ed-4db1-8df5-bb6c955489d2",
-      "name": "Krispin Basey"
+      "name": "Krispin Basey",
+      "totalPurchasesCost": "$900971.92",
+      "email": "cclist9@studiopress.com",
+      "phone": "+62 426 851 7510",
+      "address": "706 Meadow Valley Plaza",
+      "lastTransactionDate": "3/23/2021"
     },
     {
       "id": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
-      "name": "Zacharie Nevin"
+      "name": "Zacharie Nevin",
+      "totalPurchasesCost": "$1636497.92",
+      "email": "pglashbya@blogger.com",
+      "phone": "+62 331 229 9710",
+      "address": "302 Green Alley",
+      "lastTransactionDate": "11/27/2020"
     },
     {
       "id": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
-      "name": "Johny Bertin"
+      "name": "Johny Bertin",
+      "totalPurchasesCost": "$1470956.42",
+      "email": "slittlechildb@4shared.com",
+      "phone": "+33 943 648 5856",
+      "address": "99 Rowland Center",
+      "lastTransactionDate": "6/26/2021"
     },
     {
       "id": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
-      "name": "Irma Shynn"
+      "name": "Irma Shynn",
+      "totalPurchasesCost": "$1860182.87",
+      "email": "swernhamc@1688.com",
+      "phone": "+86 972 885 9452",
+      "address": "082 Dorton Terrace",
+      "lastTransactionDate": "9/20/2021"
     },
     {
       "id": "077c1761-ae93-468b-a741-9bb22e7dfff3",
-      "name": "Wyn Brose"
+      "name": "Wyn Brose",
+      "totalPurchasesCost": "$214938.06",
+      "email": "tlelanded@blogger.com",
+      "phone": "+53 546 405 2656",
+      "address": "90 Northview Avenue",
+      "lastTransactionDate": "9/9/2021"
     },
     {
       "id": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
-      "name": "Gale Horry"
+      "name": "Gale Horry",
+      "totalPurchasesCost": "$66348.63",
+      "email": "lcarbine@ustream.tv",
+      "phone": "+46 835 363 4227",
+      "address": "92001 Pepper Wood Crossing",
+      "lastTransactionDate": "4/26/2021"
     },
     {
       "id": "d2e852a0-57aa-402a-982c-01a8126672da",
-      "name": "Faunie Kilshaw"
+      "name": "Faunie Kilshaw",
+      "totalPurchasesCost": "$1414442.99",
+      "email": "rkentonf@goodreads.com",
+      "phone": "+62 418 221 8993",
+      "address": "3 Menomonie Junction",
+      "lastTransactionDate": "3/30/2021"
     },
     {
       "id": "819cfa43-6f22-4241-89bb-29637a12b506",
-      "name": "Nicolea Du Hamel"
+      "name": "Nicolea Du Hamel",
+      "totalPurchasesCost": "$722947.02",
+      "email": "baccombeg@npr.org",
+      "phone": "+386 967 819 3355",
+      "address": "7 Scofield Street",
+      "lastTransactionDate": "8/29/2021"
     },
     {
       "id": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
-      "name": "Meghan Denacamp"
+      "name": "Meghan Denacamp",
+      "totalPurchasesCost": "$646139.14",
+      "email": "mbrownseah@webs.com",
+      "phone": "+351 628 172 4959",
+      "address": "76690 Summerview Road",
+      "lastTransactionDate": "9/6/2021"
     },
     {
       "id": "7e457d98-1925-4a6a-9e05-fb06130cd674",
-      "name": "Andrus Rodden"
+      "name": "Andrus Rodden",
+      "totalPurchasesCost": "$1694886.00",
+      "email": "nranscombi@apple.com",
+      "phone": "+57 141 317 7421",
+      "address": "93 Charing Cross Point",
+      "lastTransactionDate": "4/24/2021"
     },
     {
       "id": "1b327a3e-813a-4fc4-9d94-b948f987e151",
-      "name": "Siana Francescuccio"
+      "name": "Siana Francescuccio",
+      "totalPurchasesCost": "$68182.74",
+      "email": "rbentamej@meetup.com",
+      "phone": "+976 750 377 3474",
+      "address": "7 Talmadge Court",
+      "lastTransactionDate": "2/27/2021"
     },
     {
       "id": "ec9512f0-c026-4743-9159-0f7016b49d57",
-      "name": "Haze Pechard"
+      "name": "Haze Pechard",
+      "totalPurchasesCost": "$1969409.98",
+      "email": "mbarnewall0@state.gov",
+      "phone": "+81 668 787 3229",
+      "address": "0650 Independence Pass",
+      "lastTransactionDate": "12/8/2020"
     },
     {
       "id": "93605878-00d4-4927-b6fe-c2db30cb5084",
-      "name": "Damara Warbrick"
+      "name": "Damara Warbrick",
+      "totalPurchasesCost": "$1609092.96",
+      "email": "mgai1@stanford.edu",
+      "phone": "+51 865 964 0823",
+      "address": "7 Namekagon Hill",
+      "lastTransactionDate": "1/15/2021"
     },
     {
       "id": "22fa380b-9584-4a78-ac35-908ea0de3b75",
-      "name": "Kaylil Gairdner"
+      "name": "Kaylil Gairdner",
+      "totalPurchasesCost": "$1862642.65",
+      "email": "sculleton2@rediff.com",
+      "phone": "+48 511 293 4875",
+      "address": "7448 Dorton Parkway",
+      "lastTransactionDate": "5/14/2021"
     },
     {
       "id": "35f4acde-4b54-480e-97f0-525f9eb532c2",
-      "name": "Alvie Gilchrist"
+      "name": "Alvie Gilchrist",
+      "totalPurchasesCost": "$81770.96",
+      "email": "vbrodway3@foxnews.com",
+      "phone": "+63 830 619 3189",
+      "address": "48171 Hermina Alley",
+      "lastTransactionDate": "12/13/2020"
     },
     {
       "id": "3666ae6a-ba6d-4ba3-ac02-06199ec93b92",
-      "name": "Garry Obert"
+      "name": "Garry Obert",
+      "totalPurchasesCost": "$189702.86",
+      "email": "rknight4@marketwatch.com",
+      "phone": "+81 953 196 7259",
+      "address": "76601 Kingsford Street",
+      "lastTransactionDate": "10/17/2020"
     },
     {
       "id": "c5edf05e-1469-4e6b-8749-4baa647103b9",
-      "name": "Jamie Siccombe"
+      "name": "Jamie Siccombe",
+      "totalPurchasesCost": "$1229639.66",
+      "email": "fwallage5@multiply.com",
+      "phone": "+380 897 253 9620",
+      "address": "7 Menomonie Plaza",
+      "lastTransactionDate": "10/28/2020"
     },
     {
       "id": "e4532cc8-41b5-4102-b4eb-5d02d548b636",
-      "name": "Theo Scaplehorn"
+      "name": "Theo Scaplehorn",
+      "totalPurchasesCost": "$1797640.98",
+      "email": "pskaife6@pbs.org",
+      "phone": "+33 131 349 1355",
+      "address": "26775 Bluestem Street",
+      "lastTransactionDate": "1/20/2021"
     },
     {
       "id": "b453b40b-2596-4cc6-8bae-d545e9d7a1c1",
-      "name": "Bailey Tollfree"
+      "name": "Bailey Tollfree",
+      "totalPurchasesCost": "$1627630.85",
+      "email": "jmichael7@tiny.cc",
+      "phone": "+7 739 842 8466",
+      "address": "2 Longview Parkway",
+      "lastTransactionDate": "8/14/2021"
     },
     {
       "id": "88bc60c9-07d6-4966-99c8-19f3c11be4e2",
-      "name": "Dorthea Spyvye"
+      "name": "Dorthea Spyvye",
+      "totalPurchasesCost": "$1469483.47",
+      "email": "mcanland8@t.co",
+      "phone": "+33 223 458 0000",
+      "address": "77 Reinke Terrace",
+      "lastTransactionDate": "2/15/2021"
     },
     {
       "id": "31264e96-cb32-42c7-97a1-d609619d3147",
-      "name": "Gilbertina Gradly"
+      "name": "Gilbertina Gradly",
+      "totalPurchasesCost": "$900971.92",
+      "email": "cclist9@studiopress.com",
+      "phone": "+62 426 851 7510",
+      "address": "706 Meadow Valley Plaza",
+      "lastTransactionDate": "3/23/2021"
     }
   ],
   "cashiers": [
