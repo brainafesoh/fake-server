@@ -442,7 +442,7 @@
     {
       "id": "f87f87cc-39d4-434a-a728-2bd87562eca0",
       "code": "55154-5034",
-      "customerId": "819cfa43-6f22-4241-89bb-29637a12b506",
+      "customerId": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
       "cashierId": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90",
       "date": "9/28/2021",
       "status": "Cancelled",
@@ -1529,7 +1529,8 @@
       "name": "Jefferson Wightman",
       "phone": "474-923-2791",
       "lastPurchaseDate": "4/17/2021",
-      "totalExpenditure": "$4.49"
+      "totalExpenditure": "$4.49",
+      "address": "Essos"
     },
     {
       "id": "85605178-16cf-4a46-8ac3-4243bb944c00",
@@ -1726,6 +1727,13 @@
       "phone": "660-825-8579",
       "lastPurchaseDate": "7/1/2021",
       "totalExpenditure": "$3.64"
+    },
+    {
+      "name": "Brain Afesoh",
+      "address": "Nouvelle Route Omnisport- SODEPA building",
+      "phone": "00000000",
+      "email": "00000000@gmail.com",
+      "id": "xFQ1vas"
     }
   ],
   "suppliers": [
