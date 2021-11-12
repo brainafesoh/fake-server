@@ -2011,123 +2011,213 @@
   "cashiers": [
     {
       "id": "4d3cbf71-4456-4fb5-8822-97624b1102f0",
-      "name": "Frederich Hancell"
+      "name": "Frederich Hancell",
+      "phone": "799-776-6259",
+      "lastSaleDate": "9/22/2020",
+      "totalSold": "$8.56"
     },
     {
       "id": "644a5a18-3ccf-46ff-a7c1-5d408056c30b",
-      "name": "Nathalie Oller"
+      "name": "Nathalie Oller",
+      "phone": "474-923-2791",
+      "lastSaleDate": "4/17/2021",
+      "totalSold": "$4.49"
     },
     {
       "id": "d7a63e0b-d8fc-4917-844e-00c45eb2f694",
-      "name": "Tandi Gullivent"
+      "name": "Tandi Gullivent",
+      "phone": "316-241-5719",
+      "lastSaleDate": "5/27/2021",
+      "totalSold": "$1.70"
     },
     {
       "id": "ec10641d-a612-4134-93c8-ba89ce8a13b1",
-      "name": "Filberte Klaiser"
+      "name": "Filberte Klaiser",
+      "phone": "487-144-5935",
+      "lastSaleDate": "6/27/2021",
+      "totalSold": "$5.86"
     },
     {
       "id": "b83f1ba0-5118-4c6c-87fa-22a4c9b6d04a",
-      "name": "Berget Lanston"
+      "name": "Berget Lanston",
+      "phone": "495-608-1450",
+      "lastSaleDate": "5/2/2021",
+      "totalSold": "$8.26"
     },
     {
       "id": "2343ef2e-6bd2-45a1-abed-c76ef55f2dcd",
-      "name": "Yorgos Chamney"
+      "name": "Yorgos Chamney",
+      "phone": "449-579-4517",
+      "lastSaleDate": "12/25/2020",
+      "totalSold": "$6.31"
     },
     {
       "id": "143b6cd5-b444-4cf7-a7b6-b98d65404db9",
-      "name": "Gail Corbally"
+      "name": "Gail Corbally",
+      "phone": "686-532-0019",
+      "lastSaleDate": "11/25/2020",
+      "totalSold": "$6.29"
     },
     {
       "id": "8047d529-ae31-4355-951a-2c8a2659e32f",
-      "name": "Ernesta Woodyatt"
+      "name": "Ernesta Woodyatt",
+      "phone": "212-981-6543",
+      "lastSaleDate": "8/27/2021",
+      "totalSold": "$3.27"
     },
     {
       "id": "0e42a74a-c0b4-45bd-866d-25d5c3733822",
-      "name": "Melonie Robel"
+      "name": "Melonie Robel",
+      "phone": "554-685-8402",
+      "lastSaleDate": "4/11/2021",
+      "totalSold": "$5.13"
     },
     {
       "id": "029f72d4-8784-4928-8a30-1fc54b88c3dc",
-      "name": "Padgett O'Connell"
+      "name": "Padgett O'Connell",
+      "phone": "262-120-1889",
+      "lastSaleDate": "11/4/2020",
+      "totalSold": "$6.27"
     },
     {
       "id": "a0729262-c601-43c5-9b33-030e73cc4e23",
-      "name": "Jeffy Donson"
+      "name": "Jeffy Donson",
+      "phone": "710-907-6525",
+      "lastSaleDate": "3/14/2021",
+      "totalSold": "$1.13"
     },
     {
       "id": "5d564f3b-7601-4f67-82c5-5a4faeee6a91",
-      "name": "Marielle Danzig"
+      "name": "Marielle Danzig",
+      "phone": "744-853-0605",
+      "lastSaleDate": "7/29/2021",
+      "totalSold": "$8.94"
     },
     {
       "id": "ade0afb0-3a44-4e69-803d-955139884557",
-      "name": "Bail McPhee"
+      "name": "Bail McPhee",
+      "phone": "963-436-4359",
+      "lastSaleDate": "6/10/2021",
+      "totalSold": "$3.45"
     },
     {
       "id": "e6e255b9-dd88-479a-94c7-bfe31e012e5b",
-      "name": "Katherine Laye"
+      "name": "Katherine Laye",
+      "phone": "161-750-1845",
+      "lastSaleDate": "6/10/2021",
+      "totalSold": "$2.34"
     },
     {
       "id": "85451fe2-9f52-4cb2-b37a-1f8b017038cc",
-      "name": "Skip Justice"
+      "name": "Skip Justice",
+      "phone": "870-264-5875",
+      "lastSaleDate": "6/13/2021",
+      "totalSold": "$0.02"
     },
     {
       "id": "d5e64a30-6645-45ee-9a65-840e8821ae4e",
-      "name": "Kassie Camelli"
+      "name": "Kassie Camelli",
+      "phone": "954-958-9576",
+      "lastSaleDate": "5/13/2021",
+      "totalSold": "$3.18"
     },
     {
       "id": "bd66d5e9-31ea-40f7-b911-1eb2bdf26a90",
-      "name": "Salli Moscon"
+      "name": "Salli Moscon",
+      "phone": "232-769-1669",
+      "lastSaleDate": "5/3/2021",
+      "totalSold": "$6.82"
     },
     {
       "id": "d9a35182-047d-4f7f-b6ac-59aa7a562a8f",
-      "name": "Valaree Cabrales"
+      "name": "Valaree Cabrales",
+      "phone": "363-443-9582",
+      "lastSaleDate": "12/10/2020",
+      "totalSold": "$4.14"
     },
     {
       "id": "a510f26e-bb6a-44b0-8fa2-bd144451defd",
-      "name": "Georgianna Anelay"
+      "name": "Georgianna Anelay",
+      "phone": "168-243-2877",
+      "lastSaleDate": "1/18/2021",
+      "totalSold": "$6.50"
     },
     {
       "id": "27799b3f-9c1e-4d53-af0a-a2776710659a",
-      "name": "Tana Stears"
+      "name": "Tana Stears",
+      "phone": "577-454-5322",
+      "lastSaleDate": "5/17/2021",
+      "totalSold": "$6.22"
     },
     {
       "id": "d35eae73-f5bf-467b-95d7-6b6a887bff9e",
-      "name": "Tome Belcher"
+      "name": "Tome Belcher",
+      "phone": "826-767-0491",
+      "lastSaleDate": "1/14/2021",
+      "totalSold": "$6.75"
     },
     {
       "id": "1636be28-4cd3-4ce6-b35e-d39bf17d94b7",
-      "name": "Lise Udy"
+      "name": "Lise Udy",
+      "phone": "447-188-3523",
+      "lastSaleDate": "4/8/2021",
+      "totalSold": "$4.78"
     },
     {
       "id": "7084dd0c-73e5-456c-a978-dd22f0c73eb2",
-      "name": "Emalia Tabbernor"
+      "name": "Emalia Tabbernor",
+      "phone": "565-664-1701",
+      "lastSaleDate": "7/5/2021",
+      "totalSold": "$3.85"
     },
     {
       "id": "af284f94-4220-41c4-9850-d6f2b04196cf",
-      "name": "Miguela Podmore"
+      "name": "Miguela Podmore",
+      "phone": "721-308-1664",
+      "lastSaleDate": "11/15/2020",
+      "totalSold": "$4.27"
     },
     {
       "id": "f730928f-e8e3-4958-b7cc-73ce21a87991",
-      "name": "Laraine Murricanes"
+      "name": "Laraine Murricanes",
+      "phone": "976-818-1796",
+      "lastSaleDate": "3/4/2021",
+      "totalSold": "$8.43"
     },
     {
       "id": "1325601e-8bde-44b3-8466-d96f48e5db01",
-      "name": "Doyle Elner"
+      "name": "Doyle Elner",
+      "phone": "744-747-8951",
+      "lastSaleDate": "8/2/2021",
+      "totalSold": "$3.79"
     },
     {
       "id": "eefe90df-fff3-40a0-86ce-6e4c09501fa9",
-      "name": "Sybille De Cruze"
+      "name": "Sybille De Cruze",
+      "phone": "714-619-3847",
+      "lastSaleDate": "6/6/2021",
+      "totalSold": "$1.15"
     },
     {
       "id": "5c9ef450-2920-45c1-9fde-642cae241f7f",
-      "name": "Hollie Jeandon"
+      "name": "Hollie Jeandon",
+      "phone": "532-393-3756",
+      "lastSaleDate": "8/5/2021",
+      "totalSold": "$8.65"
     },
     {
       "id": "ff08a66a-2438-45b6-a620-5a86dbc9b1cd",
-      "name": "Virgie Carbery"
+      "name": "Virgie Carbery",
+      "phone": "156-422-8671",
+      "lastSaleDate": "4/28/2021",
+      "totalSold": "$8.11"
     },
     {
       "id": "18d30b42-eaf1-4f26-bb43-66f1d58a657b",
-      "name": "Quintus Piatti"
+      "name": "Quintus Piatti",
+      "phone": "660-825-8579",
+      "lastSaleDate": "7/1/2021",
+      "totalSold": "$3.64"
     }
   ]
 }
