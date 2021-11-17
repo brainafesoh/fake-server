@@ -2219,5 +2219,268 @@
       "lastSaleDate": "7/1/2021",
       "totalSold": "$3.64"
     }
+  ],
+  "projects": [
+    {
+      "id": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "code": "04104ZD",
+      "priority": "Normal",
+      "type": "Internal",
+      "title": "Temp",
+      "salespersonId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "customerId": "3149858c-620f-4536-9cda-18fbad8e18af",
+      "estimatedEndDate": "9/5/2021",
+      "startingDate": "6/29/2022",
+      "status": "Waiting"
+    },
+    {
+      "id": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "code": "0WWNX3Z",
+      "priority": "Medium",
+      "type": "External",
+      "title": "Fixflex",
+      "salespersonId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "customerId": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
+      "estimatedEndDate": "3/10/2021",
+      "startingDate": "8/2/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "code": "0SW6X0Z",
+      "priority": "Normal",
+      "type": "Internal",
+      "title": "Temp",
+      "salespersonId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "customerId": "85605178-16cf-4a46-8ac3-4243bb944c00",
+      "estimatedEndDate": "3/23/2021",
+      "startingDate": "8/3/2022",
+      "status": "Waiting"
+    },
+    {
+      "id": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "code": "04793GZ",
+      "priority": "High",
+      "type": "External",
+      "title": "Holdlamis",
+      "salespersonId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "customerId": "b87fbb2f-66d8-4386-b14b-e242a18348a2",
+      "estimatedEndDate": "10/4/2020",
+      "startingDate": "12/17/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "code": "08P07DZ",
+      "priority": "Medium",
+      "type": "External",
+      "title": "Zaam",
+      "salespersonId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "customerId": "70850c67-250d-4706-ae24-aca5c845c1a8",
+      "estimatedEndDate": "2/6/2021",
+      "startingDate": "8/11/2022",
+      "status": "In Progress"
+    },
+    {
+      "id": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "code": "0RQ93ZZ",
+      "priority": "High",
+      "type": "Internal",
+      "title": "Fintone",
+      "salespersonId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "customerId": "9599d2fd-d88c-427b-9d3a-5ca080d60278",
+      "estimatedEndDate": "1/8/2021",
+      "startingDate": "11/7/2022",
+      "status": "In Progress"
+    },
+    {
+      "id": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "code": "0TPD83Z",
+      "priority": "Medium",
+      "type": "External",
+      "title": "Flexidy",
+      "salespersonId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "customerId": "feb3d33c-f45a-4151-bb79-0daefa4c64e7",
+      "estimatedEndDate": "9/1/2021",
+      "startingDate": "4/23/2022",
+      "status": "Terminated"
+    },
+    {
+      "id": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "code": "DHY68ZZ",
+      "priority": "High",
+      "type": "Internal",
+      "title": "Biodex",
+      "salespersonId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "customerId": "ca068e94-c746-494c-a44b-041e1db659ca",
+      "estimatedEndDate": "6/13/2021",
+      "startingDate": "12/3/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "code": "0U9540Z",
+      "priority": "Normal",
+      "type": "Internal",
+      "title": "Otcom",
+      "salespersonId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "customerId": "6e816c44-abcd-415d-adb3-c61d0d02748d",
+      "estimatedEndDate": "10/17/2020",
+      "startingDate": "8/5/2022",
+      "status": "Terminated"
+    },
+    {
+      "id": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "code": "0W2KXYZ",
+      "priority": "Medium",
+      "type": "External",
+      "title": "Stronghold",
+      "salespersonId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "customerId": "17410a16-53ed-4db1-8df5-bb6c955489d2",
+      "estimatedEndDate": "1/2/2021",
+      "startingDate": "6/21/2022",
+      "status": "Terminated"
+    },
+    {
+      "id": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "code": "06U137Z",
+      "priority": "High",
+      "type": "External",
+      "title": "Span",
+      "salespersonId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "customerId": "425e6249-bd0e-4eba-8443-b67bf93a1b55",
+      "estimatedEndDate": "2/25/2021",
+      "startingDate": "3/2/2022",
+      "status": "In Progress"
+    },
+    {
+      "id": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "code": "0CN50ZZ",
+      "priority": "Medium",
+      "type": "External",
+      "title": "It",
+      "salespersonId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "customerId": "ddf96504-af7e-4611-a98b-4a50e3225d8e",
+      "estimatedEndDate": "1/16/2021",
+      "startingDate": "10/8/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "code": "04914ZZ",
+      "priority": "Medium",
+      "type": "Internal",
+      "title": "Cardguard",
+      "salespersonId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "customerId": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
+      "estimatedEndDate": "2/9/2021",
+      "startingDate": "3/31/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "code": "02TH4ZZ",
+      "priority": "Normal",
+      "type": "Internal",
+      "title": "Zaam",
+      "salespersonId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "customerId": "077c1761-ae93-468b-a741-9bb22e7dfff3",
+      "estimatedEndDate": "7/18/2021",
+      "startingDate": "11/8/2022",
+      "status": "Terminated"
+    },
+    {
+      "id": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "code": "03B80ZZ",
+      "priority": "High",
+      "type": "Internal",
+      "title": "Ventosanzap",
+      "salespersonId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "customerId": "e7360aa5-5d6a-4eaf-8fdf-4b7204cccf49",
+      "estimatedEndDate": "8/18/2021",
+      "startingDate": "2/2/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "code": "037D07Z",
+      "priority": "Normal",
+      "type": "Internal",
+      "title": "Fix",
+      "salespersonId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "customerId": "d2e852a0-57aa-402a-982c-01a8126672da",
+      "estimatedEndDate": "2/13/2021",
+      "startingDate": "5/9/2022",
+      "status": "In Progress"
+    },
+    {
+      "id": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "code": "0DLG7ZZ",
+      "priority": "Medium",
+      "type": "External",
+      "title": "Holdlamis",
+      "salespersonId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "customerId": "819cfa43-6f22-4241-89bb-29637a12b506",
+      "estimatedEndDate": "4/21/2021",
+      "startingDate": "9/16/2022",
+      "status": "Waiting"
+    },
+    {
+      "id": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "code": "0SS93ZZ",
+      "priority": "Normal",
+      "type": "External",
+      "title": "Toughjoyfax",
+      "salespersonId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "customerId": "436d91e6-9e3c-4e3d-9286-3ec641b897e6",
+      "estimatedEndDate": "11/25/2020",
+      "startingDate": "7/20/2022",
+      "status": "Cancelled"
+    },
+    {
+      "id": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "code": "0FLD8DZ",
+      "priority": "Medium",
+      "type": "External",
+      "title": "Sub",
+      "salespersonId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "customerId": "7e457d98-1925-4a6a-9e05-fb06130cd674",
+      "estimatedEndDate": "9/14/2021",
+      "startingDate": "8/27/2022",
+      "status": "Waiting"
+    },
+    {
+      "id": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "code": "0FPD01Z",
+      "priority": "High",
+      "type": "External",
+      "title": "Latlux",
+      "salespersonId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "customerId": "1b327a3e-813a-4fc4-9d94-b948f987e151",
+      "estimatedEndDate": "6/18/2021",
+      "startingDate": "2/20/2022",
+      "status": "Cancelled"
+    }
+  ],
+  "employees": [
+    {
+      "id": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "name": "Sydelle Stroband"
+    },
+    { "id": "c2d97623-fb03-4888-9075-8f9bd367e68c", "name": "Bogey Medhurst" },
+    { "id": "560ba238-f697-4ae7-99b4-b85c2cd0f05e", "name": "Dalli Souttar" },
+    { "id": "aa265d8b-2439-4d68-9b82-f74eeb295cbe", "name": "Thaine Hutcheon" },
+    {
+      "id": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "name": "Cristionna Simner"
+    },
+    {
+      "id": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "name": "Rosette Denekamp"
+    },
+    { "id": "f8570e46-0330-4705-b0b6-39c639b1816e", "name": "Garrard Conkey" },
+    { "id": "7f7061e7-9748-4b56-8985-93301ff39570", "name": "Austin Wescott" },
+    { "id": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f", "name": "Oswald Piell" },
+    { "id": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d", "name": "Pascal Slyde" }
   ]
 }
