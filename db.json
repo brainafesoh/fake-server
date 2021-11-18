@@ -2231,7 +2231,9 @@
       "customerId": "3149858c-620f-4536-9cda-18fbad8e18af",
       "estimatedEndDate": "9/5/2021",
       "startingDate": "6/29/2022",
-      "status": "Waiting"
+      "status": "Waiting",
+      "estimatedCost": "9000",
+      "agreedPrice": 99000
     },
     {
       "id": "c2d97623-fb03-4888-9075-8f9bd367e68c",
@@ -2241,9 +2243,12 @@
       "title": "Fixflex",
       "salespersonId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
       "customerId": "b4037c34-ad19-46dc-b71e-7b59e56234ec",
-      "estimatedEndDate": "3/10/2021",
+      "estimatedEndDate": "2021-11-12",
       "startingDate": "8/2/2022",
-      "status": "Cancelled"
+      "status": "Cancelled",
+      "startDate": "2021-11-01",
+      "estimatedCost": "15000",
+      "agreedPrice": 5500000
     },
     {
       "id": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
@@ -2462,14 +2467,225 @@
       "status": "Cancelled"
     }
   ],
+  "tasks": [
+    {
+      "code": "04104ZD",
+      "priority": "Normal",
+      "projectId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "activityId": "Auto Manufacturing",
+      "totalTimeUsed": "82h",
+      "timeEstimate": "1h",
+      "status": "Waiting",
+      "title": "Dui maecenas tristique est et"
+    },
+    {
+      "code": "0WWNX3Z",
+      "priority": "Medium",
+      "projectId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "activityId": "Major Banks",
+      "totalTimeUsed": "86h",
+      "timeEstimate": "51h",
+      "status": "Cancelled",
+      "title": "Erat nulla tempus vivamus"
+    },
+    {
+      "code": "0SW6X0Z",
+      "priority": "Normal",
+      "projectId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "activityId": "n/a",
+      "totalTimeUsed": "17h",
+      "timeEstimate": "96h",
+      "status": "Waiting",
+      "title": "Diam erat"
+    },
+    {
+      "code": "04793GZ",
+      "priority": "High",
+      "projectId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "activityId": "Industrial Machinery/Components",
+      "totalTimeUsed": "100h",
+      "timeEstimate": "62h",
+      "status": "Cancelled",
+      "title": "At ipsum ac tellus semper"
+    },
+    {
+      "code": "08P07DZ",
+      "priority": "Medium",
+      "projectId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "activityId": "n/a",
+      "totalTimeUsed": "23h",
+      "timeEstimate": "18h",
+      "status": "In Progress",
+      "title": "Ac lobortis"
+    },
+    {
+      "code": "0RQ93ZZ",
+      "priority": "High",
+      "projectId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "activityId": "Finance: Consumer Services",
+      "totalTimeUsed": "3h",
+      "timeEstimate": "70h",
+      "status": "In Progress",
+      "title": "Erat quisque erat"
+    },
+    {
+      "code": "0TPD83Z",
+      "priority": "Medium",
+      "projectId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "activityId": "Radio And Television Broadcasting And Communications Equipment",
+      "totalTimeUsed": "50h",
+      "timeEstimate": "76h",
+      "status": "Terminated",
+      "title": "Eros elementum"
+    },
+    {
+      "code": "DHY68ZZ",
+      "priority": "High",
+      "projectId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "activityId": "Major Pharmaceuticals",
+      "totalTimeUsed": "22h",
+      "timeEstimate": "11h",
+      "status": "Cancelled",
+      "title": "Nulla nunc purus phasellus"
+    },
+    {
+      "code": "0U9540Z",
+      "priority": "Normal",
+      "projectId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "activityId": "n/a",
+      "totalTimeUsed": "62h",
+      "timeEstimate": "99h",
+      "status": "Terminated",
+      "title": "Sapien non"
+    },
+    {
+      "code": "0W2KXYZ",
+      "priority": "Medium",
+      "projectId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "activityId": "Diversified Commercial Services",
+      "totalTimeUsed": "14h",
+      "timeEstimate": "56h",
+      "status": "Terminated",
+      "title": "Vulputate nonummy"
+    },
+    {
+      "code": "06U137Z",
+      "priority": "High",
+      "projectId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "activityId": "Precision Instruments",
+      "totalTimeUsed": "6h",
+      "timeEstimate": "3h",
+      "status": "In Progress",
+      "title": "Ante nulla justo aliquam quis turpis"
+    },
+    {
+      "code": "0CN50ZZ",
+      "priority": "Medium",
+      "projectId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "activityId": "Electric Utilities: Central",
+      "totalTimeUsed": "61h",
+      "timeEstimate": "8h",
+      "status": "Cancelled",
+      "title": "Lacinia eget tincidunt eget tempus vel"
+    },
+    {
+      "code": "04914ZZ",
+      "priority": "Medium",
+      "projectId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "activityId": "Major Banks",
+      "totalTimeUsed": "29h",
+      "timeEstimate": "76h",
+      "status": "Cancelled",
+      "title": "Nonummy integer"
+    },
+    {
+      "code": "02TH4ZZ",
+      "priority": "Normal",
+      "projectId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "activityId": "Oil & Gas Production",
+      "totalTimeUsed": "68h",
+      "timeEstimate": "76h",
+      "status": "Terminated",
+      "title": "Elementum in hac habitasse"
+    },
+    {
+      "code": "03B80ZZ",
+      "priority": "High",
+      "projectId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "activityId": "Other Consumer Services",
+      "totalTimeUsed": "9h",
+      "timeEstimate": "8h",
+      "status": "Cancelled",
+      "title": "In purus"
+    },
+    {
+      "code": "037D07Z",
+      "priority": "Normal",
+      "projectId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "activityId": "Paints/Coatings",
+      "totalTimeUsed": "93h",
+      "timeEstimate": "61h",
+      "status": "In Progress",
+      "title": "Est phasellus"
+    },
+    {
+      "code": "0DLG7ZZ",
+      "priority": "Medium",
+      "projectId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "activityId": "Auto Parts:O.E.M.",
+      "totalTimeUsed": "85h",
+      "timeEstimate": "6h",
+      "status": "Waiting",
+      "title": "Nulla eget eros elementum pellentesque"
+    },
+    {
+      "code": "0SS93ZZ",
+      "priority": "Normal",
+      "projectId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "activityId": "Precious Metals",
+      "totalTimeUsed": "40h",
+      "timeEstimate": "50h",
+      "status": "Cancelled",
+      "title": "Lacus curabitur at"
+    },
+    {
+      "code": "0FLD8DZ",
+      "priority": "Medium",
+      "projectId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "activityId": "Savings Institutions",
+      "totalTimeUsed": "40h",
+      "timeEstimate": "19h",
+      "status": "Waiting",
+      "title": "Vivamus vel nulla eget eros elementum"
+    },
+    {
+      "code": "0FPD01Z",
+      "priority": "High",
+      "projectId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "activityId": "Fluid Controls",
+      "totalTimeUsed": "79h",
+      "timeEstimate": "16h",
+      "status": "Cancelled",
+      "title": "Est quam pharetra"
+    }
+  ],
   "employees": [
     {
       "id": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
       "name": "Sydelle Stroband"
     },
-    { "id": "c2d97623-fb03-4888-9075-8f9bd367e68c", "name": "Bogey Medhurst" },
-    { "id": "560ba238-f697-4ae7-99b4-b85c2cd0f05e", "name": "Dalli Souttar" },
-    { "id": "aa265d8b-2439-4d68-9b82-f74eeb295cbe", "name": "Thaine Hutcheon" },
+    {
+      "id": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "name": "Bogey Medhurst"
+    },
+    {
+      "id": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "name": "Dalli Souttar"
+    },
+    {
+      "id": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "name": "Thaine Hutcheon"
+    },
     {
       "id": "093e46cd-b844-4097-b300-0aad8fa49c52",
       "name": "Cristionna Simner"
@@ -2478,9 +2694,21 @@
       "id": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
       "name": "Rosette Denekamp"
     },
-    { "id": "f8570e46-0330-4705-b0b6-39c639b1816e", "name": "Garrard Conkey" },
-    { "id": "7f7061e7-9748-4b56-8985-93301ff39570", "name": "Austin Wescott" },
-    { "id": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f", "name": "Oswald Piell" },
-    { "id": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d", "name": "Pascal Slyde" }
+    {
+      "id": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "name": "Garrard Conkey"
+    },
+    {
+      "id": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "name": "Austin Wescott"
+    },
+    {
+      "id": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "name": "Oswald Piell"
+    },
+    {
+      "id": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "name": "Pascal Slyde"
+    }
   ]
 }
