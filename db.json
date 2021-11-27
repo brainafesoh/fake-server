@@ -979,7 +979,7 @@
     },
     {
       "id": "44786490-aa28-455b-92a4-4401a83a4842",
-      "articleId": "44786490-aa28-455b-92a4-4401a83a4842",
+      "articleId": "5670533a-16e9-4f1c-8952-e6d0c25f78c7",
       "saleId": "16fe9555-133d-4631-89c6-1d6ac2c81ee0",
       "quantity": 28,
       "unitPrice": 302,
@@ -2465,10 +2465,25 @@
       "estimatedEndDate": "6/18/2021",
       "startingDate": "2/20/2022",
       "status": "Cancelled"
+    },
+    {
+      "status": "Waiting",
+      "code": "000000nnnnn",
+      "title": "Elogix",
+      "customerId": "fa0ca729-f1a1-461a-ae1e-5d3741f0686f",
+      "salespersonId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "agreedPrice": 7000000,
+      "estimatedCost": "9000",
+      "startDate": "2021-11-15",
+      "estimatedEndDate": "2021-11-04",
+      "priority": "Normal",
+      "type": "External",
+      "id": "HkzIL7Z"
     }
   ],
   "tasks": [
     {
+      "id": "9c95384e-317c-4aeb-b68b-b20d8487b79f",
       "code": "04104ZD",
       "priority": "Normal",
       "projectId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
@@ -2479,6 +2494,7 @@
       "title": "Dui maecenas tristique est et"
     },
     {
+      "id": "5610b160-6064-407e-9106-de9744b99728",
       "code": "0WWNX3Z",
       "priority": "Medium",
       "projectId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
@@ -2489,6 +2505,7 @@
       "title": "Erat nulla tempus vivamus"
     },
     {
+      "id": "ac2cc1fe-339d-4efb-b1d0-a1cb94c63abd",
       "code": "0SW6X0Z",
       "priority": "Normal",
       "projectId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
@@ -2499,6 +2516,7 @@
       "title": "Diam erat"
     },
     {
+      "id": "1a5112ca-9d7c-4c7e-90f5-fb2464361045",
       "code": "04793GZ",
       "priority": "High",
       "projectId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
@@ -2509,6 +2527,7 @@
       "title": "At ipsum ac tellus semper"
     },
     {
+      "id": "0a8e38ba-a9de-4f31-a138-6c91be0c7a69",
       "code": "08P07DZ",
       "priority": "Medium",
       "projectId": "093e46cd-b844-4097-b300-0aad8fa49c52",
@@ -2519,6 +2538,7 @@
       "title": "Ac lobortis"
     },
     {
+      "id": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
       "code": "0RQ93ZZ",
       "priority": "High",
       "projectId": "f8570e46-0330-4705-b0b6-39c639b1816e",
@@ -2529,6 +2549,7 @@
       "title": "Erat quisque erat"
     },
     {
+      "id": "32ef7f84-4868-4499-afed-38b223577414",
       "code": "0TPD83Z",
       "priority": "Medium",
       "projectId": "7f7061e7-9748-4b56-8985-93301ff39570",
@@ -2539,6 +2560,7 @@
       "title": "Eros elementum"
     },
     {
+      "id": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
       "code": "DHY68ZZ",
       "priority": "High",
       "projectId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
@@ -2549,6 +2571,7 @@
       "title": "Nulla nunc purus phasellus"
     },
     {
+      "id": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
       "code": "0U9540Z",
       "priority": "Normal",
       "projectId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
@@ -2559,6 +2582,7 @@
       "title": "Sapien non"
     },
     {
+      "id": "4d7b8a07-ab97-4621-8237-98f0372a1f6a",
       "code": "0W2KXYZ",
       "priority": "Medium",
       "projectId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
@@ -2569,6 +2593,7 @@
       "title": "Vulputate nonummy"
     },
     {
+      "id": "4ddd8209-00ef-4f5e-bf87-733957fbaa08",
       "code": "06U137Z",
       "priority": "High",
       "projectId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
@@ -2579,6 +2604,7 @@
       "title": "Ante nulla justo aliquam quis turpis"
     },
     {
+      "id": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
       "code": "0CN50ZZ",
       "priority": "Medium",
       "projectId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
@@ -2589,6 +2615,7 @@
       "title": "Lacinia eget tincidunt eget tempus vel"
     },
     {
+      "id": "c3c741d2-c885-4643-a993-12d7ec8daaca",
       "code": "04914ZZ",
       "priority": "Medium",
       "projectId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
@@ -2599,6 +2626,7 @@
       "title": "Nonummy integer"
     },
     {
+      "id": "741c0035-c81d-4457-a560-a004a141322d",
       "code": "02TH4ZZ",
       "priority": "Normal",
       "projectId": "093e46cd-b844-4097-b300-0aad8fa49c52",
@@ -2609,6 +2637,7 @@
       "title": "Elementum in hac habitasse"
     },
     {
+      "id": "073885a2-b027-444b-8c2a-e1f0b7770049",
       "code": "03B80ZZ",
       "priority": "High",
       "projectId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
@@ -2619,6 +2648,7 @@
       "title": "In purus"
     },
     {
+      "id": "726b0baf-472c-4768-8143-7d2a58791a24",
       "code": "037D07Z",
       "priority": "Normal",
       "projectId": "f8570e46-0330-4705-b0b6-39c639b1816e",
@@ -2629,6 +2659,7 @@
       "title": "Est phasellus"
     },
     {
+      "id": "9944c743-298d-4535-8daf-790e0511c9e4",
       "code": "0DLG7ZZ",
       "priority": "Medium",
       "projectId": "7f7061e7-9748-4b56-8985-93301ff39570",
@@ -2639,6 +2670,7 @@
       "title": "Nulla eget eros elementum pellentesque"
     },
     {
+      "id": "17fc0f01-92b6-4364-8486-9e68450471a2",
       "code": "0SS93ZZ",
       "priority": "Normal",
       "projectId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
@@ -2649,6 +2681,7 @@
       "title": "Lacus curabitur at"
     },
     {
+      "id": "ca352fab-0bc2-425d-bd51-15ffefb86671",
       "code": "0FLD8DZ",
       "priority": "Medium",
       "projectId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
@@ -2659,6 +2692,7 @@
       "title": "Vivamus vel nulla eget eros elementum"
     },
     {
+      "id": "4c345772-024d-4760-a713-608a84edabd9",
       "code": "0FPD01Z",
       "priority": "High",
       "projectId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
@@ -2675,16 +2709,19 @@
       "firstName": "Roderich",
       "lastName": "Godbert",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
-      "remainingLeaveDays": "12j"
+      "remainingLeaveDays": "12j",
+      "contractType": "CDI",
+      "password": "mk9Bznmy9WgqSzi",
+      "contractStartDate": "2021-11-18"
     },
     {
       "id": "c2d97623-fb03-4888-9075-8f9bd367e68c",
       "firstName": "Duncan",
       "lastName": "Paull",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2693,7 +2730,7 @@
       "firstName": "Sherwin",
       "lastName": "Jansen",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2702,7 +2739,7 @@
       "firstName": "Hayden",
       "lastName": "Willder",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2710,17 +2747,22 @@
       "id": "093e46cd-b844-4097-b300-0aad8fa49c52",
       "firstName": "Elinore",
       "lastName": "Duce",
-      "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "contractStatus": "PART_TIME",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
-      "remainingLeaveDays": "12j"
+      "remainingLeaveDays": "12j",
+      "contractType": "CDI",
+      "password": "mk9Bznmy9WgqSzi",
+      "salary": 500000,
+      "contractStartDate": "2021-11-17",
+      "contractEndDate": "2021-12-11"
     },
     {
       "id": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
       "firstName": "Biron",
       "lastName": "Blaik",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2729,7 +2771,7 @@
       "firstName": "Shem",
       "lastName": "O'Cleary",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2738,7 +2780,7 @@
       "firstName": "Valeria",
       "lastName": "Coomer",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2747,7 +2789,7 @@
       "firstName": "Francoise",
       "lastName": "Thumann",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
     },
@@ -2756,9 +2798,1527 @@
       "firstName": "Cristin",
       "lastName": "Cowper",
       "contractStatus": "CDD",
-      "jobTitle": "Developer",
+      "jobPosition": "Developer",
       "lastPayDate": "12/01/2012",
       "remainingLeaveDays": "12j"
+    }
+  ],
+  "educations": [
+    {
+      "id": "3f164de7-8e98-4101-9494-6b7992c086be",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "schoolName": "Nicolas-O'Conner",
+      "diploma": "Masters Business Administration",
+      "startDate": "2021-11-11",
+      "endDate": "2017-07-26",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "6ee17d97-0841-4339-82a5-dd8db8fa84dc",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "schoolName": "Lynch-Dickens",
+      "diploma": "PLEG",
+      "startDate": "2015-04-19",
+      "endDate": "2019-06-30",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "fc742c57-3a10-4baa-8989-98667b1438dc",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "schoolName": "Kerluke-Walsh",
+      "diploma": "BTS Comptabilité",
+      "startDate": "2020-02-17",
+      "endDate": "2018-05-13",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "7d9e8c1b-ff3b-4cde-be3b-3f744d7d4f4b",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Casper LLC",
+      "diploma": "PLEG",
+      "startDate": "2018-01-26",
+      "endDate": "2019-09-10",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "198ecae0-9f7c-46f3-a705-fe183a6d7e24",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "schoolName": "Little-Hessel",
+      "diploma": "Masters Business Administration",
+      "startDate": "2017-01-30",
+      "endDate": "2019-05-30",
+      "isCurrent": false,
+      "isCertification": false
+    },
+    {
+      "id": "318b8abe-b565-46a0-b259-fe3a671b5f07",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "schoolName": "Grady, Corwin and Glover",
+      "diploma": "BSc Commerce",
+      "startDate": "2018-11-16",
+      "endDate": "2018-05-16",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "c28ab29d-53d1-454a-97b0-c2b7088acfaa",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "schoolName": "Shields Inc",
+      "diploma": "BSc Commerce",
+      "startDate": "2017-07-13",
+      "endDate": "2018-06-07",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "3fcc2750-2ae5-4c4a-8273-f053f07abfc9",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "schoolName": "Huels LLC",
+      "diploma": "PLEG",
+      "startDate": "2019-12-25",
+      "endDate": "2020-01-18",
+      "isCurrent": false,
+      "isCertification": false
+    },
+    {
+      "id": "52312bae-f4e1-4801-af04-3d7a44068963",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "schoolName": "Lind, Wiegand and Bogan",
+      "diploma": "Masters Business Administration",
+      "startDate": "2020-12-23",
+      "endDate": "2019-12-24",
+      "isCurrent": false,
+      "isCertification": false
+    },
+    {
+      "id": "662d3c8e-36c5-45dd-9e98-bed9cc98046d",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "schoolName": "Wilkinson-Simonis",
+      "diploma": "Masters Business Administration",
+      "startDate": "2019-03-04",
+      "endDate": "2017-11-08",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "3409c4d8-dbfa-4c56-89b8-26f87fce5af4",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "schoolName": "Mitchell-Wisozk",
+      "diploma": "PLEG",
+      "startDate": "2018-04-21",
+      "endDate": "2017-08-11",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "208e26d4-d0a9-4ecb-ba9a-920b2710dfbc",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Mitchell, Kuhlman and Pfannerstill",
+      "diploma": "BSc Commerce",
+      "startDate": "2017-04-05",
+      "endDate": "2019-05-30",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "0cb2ced8-dc59-4862-910c-8e9d57d6f00c",
+      "employeeId": "",
+      "schoolName": "Botsford, Swift and Johnson",
+      "diploma": "BSc Engineering",
+      "startDate": "2016-08-05",
+      "endDate": "2019-04-29",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "89d25f77-5d03-4b7d-987a-ad72ce961735",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "schoolName": "Schmidt, Block and VonRueden",
+      "diploma": "PLEG",
+      "startDate": "2017-04-22",
+      "endDate": "2017-04-11",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "51a26010-fab8-4e6e-abbe-0e78ad33f39c",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Satterfield and Sons",
+      "diploma": "PLEG",
+      "startDate": "2017-07-30",
+      "endDate": "2018-04-08",
+      "isCurrent": false,
+      "isCertification": false
+    },
+    {
+      "id": "ffbf27c5-9bdc-4a4e-8275-1bc167cc7fb0",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "schoolName": "Aufderhar, Armstrong and Hettinger",
+      "diploma": "BSc Commerce",
+      "startDate": "2015-10-19",
+      "endDate": "2017-11-08",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "9f21b86b-fc31-48dc-a1e2-27c3d0c4a45c",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "schoolName": "Lockman Group",
+      "diploma": "PLEG",
+      "startDate": "2018-12-27",
+      "endDate": "2018-01-24",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "ea7b0705-7a03-41d1-a111-3331c1d4b935",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "schoolName": "Mitchell Group",
+      "diploma": "BSc Commerce",
+      "startDate": "2021-10-15",
+      "endDate": "2019-08-20",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "a4f6c691-7c2b-4d56-bf04-4d3421db110a",
+      "employeeId": "",
+      "schoolName": "Bogan-Maggio",
+      "diploma": "Masters Business Administration",
+      "startDate": "2020-11-27",
+      "endDate": "2019-05-08",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "cd527bcc-725f-42c6-9cbc-32c7385507a7",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "schoolName": "Thiel, Emmerich and Dach",
+      "diploma": "BSc Commerce",
+      "startDate": "2017-02-23",
+      "endDate": "2018-11-02",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "de38f0d1-4bc7-4ea6-8df7-977115a03ee4",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "schoolName": "Hilpert, Douglas and Berge",
+      "diploma": "Masters Business Administration",
+      "startDate": "2021-07-20",
+      "endDate": "2018-08-28",
+      "isCurrent": false,
+      "isCertification": false
+    },
+    {
+      "id": "c47f3756-cb3c-47e1-b0d6-fb90518fba5e",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Quigley-Friesen",
+      "diploma": "Masters Business Administration",
+      "startDate": "2021-10-13",
+      "endDate": "2017-12-01",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "ec9b35e6-d764-414f-8bff-716cb9b96fe7",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "schoolName": "Ritchie, Abbott and Denesik",
+      "diploma": "PLEG",
+      "startDate": "2017-06-28",
+      "endDate": "2017-09-15",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "2a9bfeb2-50b2-4d3a-af62-be357b737e0c",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "schoolName": "Nolan-Monahan",
+      "diploma": "Masters Business Administration",
+      "startDate": "2016-01-17",
+      "endDate": "2017-11-09",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "4b318dd0-9f66-4dfb-94a4-24a2cef50ecb",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Lindgren Group",
+      "diploma": "Masters Business Administration",
+      "startDate": "2017-12-24",
+      "endDate": "2018-09-18",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "007fac10-dccc-4d6a-826d-7da56f873375",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "schoolName": "Hartmann-Lynch",
+      "diploma": "BSc Engineering",
+      "startDate": "2018-02-27",
+      "endDate": "2018-10-13",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "749b83cf-e330-431f-9e5b-ccf272b63261",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "schoolName": "Casper, Renner and Kiehn",
+      "diploma": "BSc Engineering",
+      "startDate": "2018-05-15",
+      "endDate": "2020-03-13",
+      "isCurrent": false,
+      "isCertification": true
+    },
+    {
+      "id": "38655c47-3a43-476a-a8c8-a242889b994f",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "schoolName": "Will LLC",
+      "diploma": "BSc Engineering",
+      "startDate": "2018-05-31",
+      "endDate": "2019-01-01",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "2db931f8-fd22-4f88-8e25-1fca45a18585",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "schoolName": "Rutherford-Kozey",
+      "diploma": "BSc Commerce",
+      "startDate": "2020-12-09",
+      "endDate": "2019-04-11",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "6226908c-5cb0-410e-8228-bfd708959f5c",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "schoolName": "Rau Inc",
+      "diploma": "BSc Commerce",
+      "startDate": "2020-10-22",
+      "endDate": "2017-03-11",
+      "isCurrent": false,
+      "isCertification": false
+    },
+    {
+      "id": "01ebfeb7-b2bb-428d-99fa-85e810633739",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "schoolName": "Berge-Bartell",
+      "diploma": "BTS Comptabilité",
+      "startDate": "2021-08-19",
+      "endDate": "2019-07-07",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "75488461-8f1e-4903-b791-28a4471bc974",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "schoolName": "Zulauf-Renner",
+      "diploma": "BTS Comptabilité",
+      "startDate": "2019-07-23",
+      "endDate": "2019-04-21",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "92da189b-6108-41ff-9301-a53fa1d7c699",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "schoolName": "Spinka-Kihn",
+      "diploma": "BTS Comptabilité",
+      "startDate": "2017-11-15",
+      "endDate": "2017-04-02",
+      "isCurrent": true,
+      "isCertification": false
+    },
+    {
+      "id": "935f0ffd-bb54-4ba2-80a1-3561ca2ad773",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "schoolName": "Torphy-Senger",
+      "diploma": "BSc Engineering",
+      "startDate": "2020-12-12",
+      "endDate": "2019-05-08",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "6cba8c88-b8de-40ef-8655-9e28d9459887",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Schuppe-Heaney",
+      "diploma": "BSc Commerce",
+      "startDate": "2020-08-03",
+      "endDate": "2018-12-27",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "4d390a7b-05b3-4d81-ab4c-f297de9783db",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "schoolName": "Simonis, Gutmann and Quitzon",
+      "diploma": "PLEG",
+      "startDate": "2017-01-20",
+      "endDate": "2019-04-20",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "7a3a2ad8-1b8c-442d-bd38-66fd835a89af",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "schoolName": "O'Keefe-Hettinger",
+      "diploma": "PLEG",
+      "startDate": "2015-09-17",
+      "endDate": "2017-06-18",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "9dc4021c-459b-4ded-95f3-d3412d3ccfc3",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "schoolName": "Huel-Rosenbaum",
+      "diploma": "BSc Commerce",
+      "startDate": "2017-04-24",
+      "endDate": "2018-09-22",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "ea686742-1493-4b9c-b8fa-c53b9e16a1a6",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "schoolName": "Anderson Inc",
+      "diploma": "BTS Comptabilité",
+      "startDate": "2015-08-29",
+      "endDate": "2019-02-08",
+      "isCurrent": true,
+      "isCertification": true
+    },
+    {
+      "id": "fccbe781-5cba-4a91-abf7-f46b090172c1",
+      "employeeId": "",
+      "schoolName": "Cole, Padberg and Kuhn",
+      "diploma": "PLEG",
+      "startDate": "2019-11-02",
+      "endDate": "2017-08-08",
+      "isCurrent": false,
+      "isCertification": true
+    }
+  ],
+  "experiences": [
+    {
+      "id": "4444a7ea-9929-4f7b-a68a-8e94adec8485",
+      "employeeId": "",
+      "companyName": "Fivechat",
+      "jobPosition": "Graphic Designer",
+      "startDate": "2016-09-17",
+      "endDate": "2017-08-21",
+      "isCurrent": false
+    },
+    {
+      "id": "872a5768-f119-489f-bbe5-3e31a12e9cd0",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "companyName": "Oyope",
+      "jobPosition": "Help Desk Technician",
+      "startDate": "2015-09-07",
+      "endDate": "2020-03-15",
+      "isCurrent": true
+    },
+    {
+      "id": "00935c2e-1f0e-4c34-aa5b-bf96f4ac72bd",
+      "employeeId": "",
+      "companyName": "Centizu",
+      "jobPosition": "Structural Engineer",
+      "startDate": "2018-09-28",
+      "endDate": "2017-11-26",
+      "isCurrent": false
+    },
+    {
+      "id": "5fd7285a-4ffa-4d0d-a030-c5e21406663c",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "companyName": "Jatri",
+      "jobPosition": "Analog Circuit Design manager",
+      "startDate": "2020-09-02",
+      "endDate": "2019-05-21",
+      "isCurrent": true
+    },
+    {
+      "id": "46f85f71-fedc-4339-a579-5c2a610ef66c",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "companyName": "Eazzy",
+      "jobPosition": "Senior Editor",
+      "startDate": "2018-01-11",
+      "endDate": "2019-11-29",
+      "isCurrent": false
+    },
+    {
+      "id": "189fe9ab-3132-43d0-9772-eb0c14fd69ef",
+      "employeeId": "",
+      "companyName": "Gevee",
+      "jobPosition": "Accountant II",
+      "startDate": "2019-06-11",
+      "endDate": "2017-12-16",
+      "isCurrent": true
+    },
+    {
+      "id": "d85004f7-be63-4a25-bd06-309a8266a7a7",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "companyName": "Rhyzio",
+      "jobPosition": "Tax Accountant",
+      "startDate": "2020-12-23",
+      "endDate": "2017-06-07",
+      "isCurrent": false
+    },
+    {
+      "id": "2b35bedd-2605-4634-8b86-b86ae46665ec",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "companyName": "Avamba",
+      "jobPosition": "Senior Cost Accountant",
+      "startDate": "2015-08-10",
+      "endDate": "2018-12-07",
+      "isCurrent": false
+    },
+    {
+      "id": "0ceb864d-2ddc-4a74-af69-1bd81c13594b",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "companyName": "Skimia",
+      "jobPosition": "Recruiting Manager",
+      "startDate": "2021-03-18",
+      "endDate": "2019-05-08",
+      "isCurrent": false
+    },
+    {
+      "id": "318de899-5d14-4c0f-9970-cbb74c000922",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Agimba",
+      "jobPosition": "Account Executive",
+      "startDate": "2020-07-20",
+      "endDate": "2018-01-23",
+      "isCurrent": false
+    },
+    {
+      "id": "958f3814-426b-448f-931b-88cd365f3496",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Skyndu",
+      "jobPosition": "Help Desk Operator",
+      "startDate": "2020-02-11",
+      "endDate": "2018-05-15",
+      "isCurrent": false
+    },
+    {
+      "id": "3d613c7e-4b80-4161-8b61-da2b0b73961c",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "companyName": "Riffpath",
+      "jobPosition": "GIS Technical Architect",
+      "startDate": "2015-06-27",
+      "endDate": "2020-01-02",
+      "isCurrent": false
+    },
+    {
+      "id": "ef5b290f-b768-466d-a175-9839d91cbcfe",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "companyName": "Blogtag",
+      "jobPosition": "VP Accounting",
+      "startDate": "2019-03-11",
+      "endDate": "2018-03-05",
+      "isCurrent": false
+    },
+    {
+      "id": "037be021-5b47-4af0-a662-a3da106e67f6",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "companyName": "Snaptags",
+      "jobPosition": "Cost Accountant",
+      "startDate": "2020-06-17",
+      "endDate": "2017-05-08",
+      "isCurrent": true
+    },
+    {
+      "id": "76546194-2989-4074-a9f3-5761c4312752",
+      "employeeId": "",
+      "companyName": "Innojam",
+      "jobPosition": "Chemical Engineer",
+      "startDate": "2021-08-08",
+      "endDate": "2017-06-29",
+      "isCurrent": true
+    },
+    {
+      "id": "abec480b-b994-4732-932f-1f784484aa91",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "companyName": "Thoughtworks",
+      "jobPosition": "Director of Sales",
+      "startDate": "2016-11-07",
+      "endDate": "2019-12-14",
+      "isCurrent": true
+    },
+    {
+      "id": "65e38b71-d7c4-4138-a9c8-2074d3fe9a1a",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "companyName": "Yodo",
+      "jobPosition": "Sales Representative",
+      "startDate": "2018-07-26",
+      "endDate": "2019-08-10",
+      "isCurrent": true
+    },
+    {
+      "id": "a48f2411-4138-4982-b91d-5c4e58fbfa3c",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "companyName": "Edgeclub",
+      "jobPosition": "Tax Accountant",
+      "startDate": "2015-09-20",
+      "endDate": "2020-03-14",
+      "isCurrent": false
+    },
+    {
+      "id": "0e372d01-e6ca-412a-9f18-4a35a6e805a6",
+      "employeeId": "",
+      "companyName": "Ailane",
+      "jobPosition": "Assistant Professor",
+      "startDate": "2019-05-17",
+      "endDate": "2017-12-27",
+      "isCurrent": false
+    },
+    {
+      "id": "5574adca-a96c-497c-9b66-6861688e327c",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Skyvu",
+      "jobPosition": "Operator",
+      "startDate": "2016-02-12",
+      "endDate": "2018-05-13",
+      "isCurrent": false
+    },
+    {
+      "id": "dfe6e49f-0cb5-4450-9db3-1f825bc7c845",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "companyName": "Blognation",
+      "jobPosition": "Recruiter",
+      "startDate": "2018-10-03",
+      "endDate": "2019-05-11",
+      "isCurrent": true
+    },
+    {
+      "id": "c3f51e64-4db1-46a2-94c3-ebf48c04b186",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Trudeo",
+      "jobPosition": "Sales Associate",
+      "startDate": "2020-11-28",
+      "endDate": "2018-09-28",
+      "isCurrent": false
+    },
+    {
+      "id": "c8fd2b70-3787-4524-a4db-61ffc823ff5a",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "companyName": "Abata",
+      "jobPosition": "Accounting Assistant II",
+      "startDate": "2017-06-15",
+      "endDate": "2018-02-16",
+      "isCurrent": true
+    },
+    {
+      "id": "35dfe2f2-6b8f-4bc7-b6cc-8a07c89b5467",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Tagchat",
+      "jobPosition": "Chief Design Engineer",
+      "startDate": "2020-01-27",
+      "endDate": "2017-07-05",
+      "isCurrent": false
+    },
+    {
+      "id": "ee157483-1f60-4517-bd56-0cb0c7def246",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Oyoyo",
+      "jobPosition": "Paralegal",
+      "startDate": "2021-04-07",
+      "endDate": "2019-07-16",
+      "isCurrent": true
+    },
+    {
+      "id": "c06900fc-2688-4b12-892d-13ab46da86e7",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "companyName": "Mynte",
+      "jobPosition": "Database Administrator I",
+      "startDate": "2018-10-17",
+      "endDate": "2019-07-21",
+      "isCurrent": true
+    },
+    {
+      "id": "33306f77-a1c4-4894-9c45-0f4c862fcec9",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "companyName": "Twitterbridge",
+      "jobPosition": "Recruiting Manager",
+      "startDate": "2016-01-11",
+      "endDate": "2018-12-24",
+      "isCurrent": false
+    },
+    {
+      "id": "a0389ac3-7711-48c5-be6e-4a866a380215",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "companyName": "Roomm",
+      "jobPosition": "Human Resources Manager",
+      "startDate": "2018-11-09",
+      "endDate": "2018-04-09",
+      "isCurrent": false
+    },
+    {
+      "id": "2ad1db83-bd3c-4190-862f-4a56447d6b14",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "companyName": "Edgepulse",
+      "jobPosition": "Web Designer III",
+      "startDate": "2021-08-12",
+      "endDate": "2017-07-01",
+      "isCurrent": false
+    },
+    {
+      "id": "f0408051-0daa-4dea-853f-1a297b4d5402",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "companyName": "Feedfire",
+      "jobPosition": "Programmer III",
+      "startDate": "2018-08-16",
+      "endDate": "2018-06-14",
+      "isCurrent": true
+    },
+    {
+      "id": "34fdb993-0938-49f8-ba2d-1eab6a876197",
+      "employeeId": "",
+      "companyName": "Fivebridge",
+      "jobPosition": "Software Consultant",
+      "startDate": "2015-05-01",
+      "endDate": "2018-12-02",
+      "isCurrent": true
+    },
+    {
+      "id": "2f3cceda-c1ea-47b7-884d-d0af4be714f8",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "companyName": "Vipe",
+      "jobPosition": "Tax Accountant",
+      "startDate": "2016-07-09",
+      "endDate": "2019-12-17",
+      "isCurrent": true
+    },
+    {
+      "id": "6fc796fa-5916-420d-b5ca-1e77ef573c3c",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Realblab",
+      "jobPosition": "Financial Analyst",
+      "startDate": "2016-07-07",
+      "endDate": "2019-07-12",
+      "isCurrent": false
+    },
+    {
+      "id": "e18a4fb0-b319-4f4d-b381-bed4656013da",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "companyName": "Voonix",
+      "jobPosition": "Executive Secretary",
+      "startDate": "2015-05-13",
+      "endDate": "2018-02-16",
+      "isCurrent": true
+    },
+    {
+      "id": "d526294f-4d0d-42e0-b6d7-9e40d04279b9",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Quamba",
+      "jobPosition": "Registered Nurse",
+      "startDate": "2020-04-22",
+      "endDate": "2018-11-04",
+      "isCurrent": false
+    },
+    {
+      "id": "d39ab2d3-2269-4c00-8e95-777e9df8e666",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "companyName": "Meevee",
+      "jobPosition": "Help Desk Operator",
+      "startDate": "2019-02-16",
+      "endDate": "2018-04-07",
+      "isCurrent": true
+    },
+    {
+      "id": "692f96fe-6986-4357-b324-9491c283b711",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "companyName": "Nlounge",
+      "jobPosition": "VP Accounting",
+      "startDate": "2017-01-11",
+      "endDate": "2017-04-03",
+      "isCurrent": false
+    },
+    {
+      "id": "956fda66-4c36-4c24-bfd2-457f7a862062",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "companyName": "Skinix",
+      "jobPosition": "Director of Sales",
+      "startDate": "2018-03-10",
+      "endDate": "2018-02-27",
+      "isCurrent": false
+    },
+    {
+      "id": "13577666-39ca-4c63-8b81-ac44a8d2e45a",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "companyName": "Twiyo",
+      "jobPosition": "Paralegal",
+      "startDate": "2018-09-04",
+      "endDate": "2018-02-19",
+      "isCurrent": false
+    },
+    {
+      "id": "4479752c-d14e-443c-ac8d-cd8627148e44",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "companyName": "Jetpulse",
+      "jobPosition": "Associate Professor",
+      "startDate": "2016-06-09",
+      "endDate": "2019-07-25",
+      "isCurrent": true
+    }
+  ],
+  "employeeTasks": [
+    {
+      "id": "302d8e7a-b815-4df1-bebe-85d31ce07717",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "assignationDate": "2019-01-08",
+      "totalTimeSpent": 86,
+      "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis."
+    },
+    {
+      "id": "bbbe66d4-7bfc-4d4d-aeca-c82bd8fc20ea",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "assignationDate": "2015-07-23",
+      "totalTimeSpent": 88,
+      "description": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+    },
+    {
+      "id": "45940b0d-2da0-4447-8bd7-330b1f56a4d6",
+      "taskId": "1a5112ca-9d7c-4c7e-90f5-fb2464361045",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2020-07-11",
+      "totalTimeSpent": 22,
+      "description": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
+    },
+    {
+      "id": "5d63e9cf-8f5d-4d08-9792-2fb5f115243f",
+      "taskId": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "assignationDate": "2018-03-07",
+      "totalTimeSpent": 7,
+      "description": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
+    },
+    {
+      "id": "1d2670fb-1d8a-483c-9dcc-bcf69de41682",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2020-09-10",
+      "totalTimeSpent": 66,
+      "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+    },
+    {
+      "id": "2148a722-681e-49f2-8b2f-adbb00c3036a",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "assignationDate": "2017-12-15",
+      "totalTimeSpent": 47,
+      "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+    },
+    {
+      "id": "2f81497b-3311-4dc6-82b3-b23437062d3c",
+      "taskId": "9944c743-298d-4535-8daf-790e0511c9e4",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "assignationDate": "2019-03-20",
+      "totalTimeSpent": 68,
+      "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis."
+    },
+    {
+      "id": "a0ab728a-b752-41ec-9773-40d4140cdc8c",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "",
+      "assignationDate": "2016-10-12",
+      "totalTimeSpent": 66,
+      "description": "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+    },
+    {
+      "id": "6a47f6bf-6090-4758-b78d-f183d2cae567",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "assignationDate": "2020-12-26",
+      "totalTimeSpent": 64,
+      "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": "c37108ae-3701-4ca7-b70a-4b8e5cff3475",
+      "taskId": "4d7b8a07-ab97-4621-8237-98f0372a1f6a",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "assignationDate": "2021-04-10",
+      "totalTimeSpent": 31,
+      "description": "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus."
+    },
+    {
+      "id": "c593983d-e78d-4b2f-81df-af8cabd8d4e7",
+      "taskId": "9c95384e-317c-4aeb-b68b-b20d8487b79f",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "assignationDate": "2021-07-21",
+      "totalTimeSpent": 4,
+      "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien."
+    },
+    {
+      "id": "581fce05-72a0-4100-8e09-fc476b232a7e",
+      "taskId": "0a8e38ba-a9de-4f31-a138-6c91be0c7a69",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "assignationDate": "2020-04-11",
+      "totalTimeSpent": 16,
+      "description": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum."
+    },
+    {
+      "id": "21b506af-9ec7-4875-a47a-7420df3f1d1d",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2016-02-18",
+      "totalTimeSpent": 79,
+      "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo."
+    },
+    {
+      "id": "5f083c8d-2a79-46e3-94e2-276370c19c10",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "assignationDate": "2021-08-29",
+      "totalTimeSpent": 81,
+      "description": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante."
+    },
+    {
+      "id": "03ea06c3-03c0-46b1-95f9-369445991cf3",
+      "taskId": "ac2cc1fe-339d-4efb-b1d0-a1cb94c63abd",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2017-07-02",
+      "totalTimeSpent": 51,
+      "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+    },
+    {
+      "id": "8cab5118-7318-4063-aee6-650eb42e7bae",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "assignationDate": "2017-01-18",
+      "totalTimeSpent": 52,
+      "description": "In eleifend quam a odio."
+    },
+    {
+      "id": "da527f98-4b55-49d1-a1e1-e851c77d9ba5",
+      "taskId": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "assignationDate": "2017-05-06",
+      "totalTimeSpent": 2,
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum."
+    },
+    {
+      "id": "d442c51a-132b-43f6-a82d-e96ff35fc54c",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2019-09-08",
+      "totalTimeSpent": 76,
+      "description": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla."
+    },
+    {
+      "id": "6c42aa83-be7d-4ccf-b157-133ab9755f31",
+      "taskId": "741c0035-c81d-4457-a560-a004a141322d",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "assignationDate": "2017-01-07",
+      "totalTimeSpent": 75,
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst."
+    },
+    {
+      "id": "a4a1d779-d323-4593-bb72-de1f876403be",
+      "taskId": "9944c743-298d-4535-8daf-790e0511c9e4",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2015-05-30",
+      "totalTimeSpent": 50,
+      "description": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque."
+    },
+    {
+      "id": "aac9201f-48da-432e-9270-8467889f7d3d",
+      "taskId": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2018-11-09",
+      "totalTimeSpent": 49,
+      "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci."
+    },
+    {
+      "id": "75a37c85-e772-4f9d-836c-ecb7aae1843b",
+      "taskId": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2017-02-19",
+      "totalTimeSpent": 67,
+      "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+    },
+    {
+      "id": "b262ad0a-4059-401f-9f93-09c76d0ff94e",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "assignationDate": "2019-10-19",
+      "totalTimeSpent": 8,
+      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus."
+    },
+    {
+      "id": "a6bcf01b-b517-40e1-8c7f-1cb8fefbf305",
+      "taskId": "726b0baf-472c-4768-8143-7d2a58791a24",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "assignationDate": "2021-08-29",
+      "totalTimeSpent": 28,
+      "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+    },
+    {
+      "id": "2b1f73bc-a415-4df8-8640-6f9b35185d4e",
+      "taskId": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "assignationDate": "2016-01-26",
+      "totalTimeSpent": 25,
+      "description": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+    },
+    {
+      "id": "16ccd7a1-6dd1-4ddc-87be-9db587f8e7fb",
+      "taskId": "c3c741d2-c885-4643-a993-12d7ec8daaca",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2019-05-31",
+      "totalTimeSpent": 19,
+      "description": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue."
+    },
+    {
+      "id": "978c6efc-1b5b-4eb7-ab75-71797fd53b6c",
+      "taskId": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
+      "employeeId": "",
+      "assignationDate": "2017-02-10",
+      "totalTimeSpent": 36,
+      "description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum."
+    },
+    {
+      "id": "17325190-ad19-4181-ad0e-f8e0e7f1bc57",
+      "taskId": "",
+      "employeeId": "",
+      "assignationDate": "2019-07-07",
+      "totalTimeSpent": 39,
+      "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim."
+    },
+    {
+      "id": "63f1d27a-584e-48f5-bbbb-e7034b5d8e48",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2015-09-17",
+      "totalTimeSpent": 62,
+      "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+    },
+    {
+      "id": "d0181d22-e979-4df7-898b-b74990ad0be6",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2021-09-14",
+      "totalTimeSpent": 29,
+      "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum."
+    },
+    {
+      "id": "11b01e4c-a7b1-42e3-b4be-12bd6447537f",
+      "taskId": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "assignationDate": "2021-10-12",
+      "totalTimeSpent": 87,
+      "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo."
+    },
+    {
+      "id": "2c4be1f3-9371-4733-a26b-5fdb0fd999f8",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "assignationDate": "2021-11-12",
+      "totalTimeSpent": 54,
+      "description": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit."
+    },
+    {
+      "id": "0c3be0e8-b891-4afa-8514-a5f37779de3c",
+      "taskId": "4ddd8209-00ef-4f5e-bf87-733957fbaa08",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "assignationDate": "2019-09-08",
+      "totalTimeSpent": 57,
+      "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl."
+    },
+    {
+      "id": "4eabddce-811a-40cf-a592-d4fc08a5130d",
+      "taskId": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2021-08-18",
+      "totalTimeSpent": 18,
+      "description": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+    },
+    {
+      "id": "1c377d93-71aa-41d9-bef3-c5577eb622a5",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "assignationDate": "2017-02-16",
+      "totalTimeSpent": 98,
+      "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+    },
+    {
+      "id": "a67cfc1d-bf78-4fc1-b334-a2d14861e9cf",
+      "taskId": "0a8e38ba-a9de-4f31-a138-6c91be0c7a69",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2016-01-08",
+      "totalTimeSpent": 47,
+      "description": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus."
+    },
+    {
+      "id": "26cc4565-20d4-4ba1-b169-17f401669c38",
+      "taskId": "9c95384e-317c-4aeb-b68b-b20d8487b79f",
+      "employeeId": "",
+      "assignationDate": "2016-06-01",
+      "totalTimeSpent": 59,
+      "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": "8170a052-82b2-42bf-b59a-95e52f4ff5a4",
+      "taskId": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "assignationDate": "2017-03-08",
+      "totalTimeSpent": 25,
+      "description": "Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros."
+    },
+    {
+      "id": "a5048009-3666-4db5-8b1a-c4d6607eab3f",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "assignationDate": "2016-12-01",
+      "totalTimeSpent": 82,
+      "description": "Suspendisse potenti."
+    },
+    {
+      "id": "56144688-1730-4f8c-b31f-9a2a0df2252a",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "assignationDate": "2017-06-27",
+      "totalTimeSpent": 98,
+      "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi."
+    },
+    {
+      "id": "2961eef9-0f91-4c1e-8d0a-718b69d22e11",
+      "taskId": "4d7b8a07-ab97-4621-8237-98f0372a1f6a",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2016-09-14",
+      "totalTimeSpent": 79,
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+    },
+    {
+      "id": "d991b8be-5063-4390-8ea0-584a75269a3b",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "assignationDate": "2020-02-04",
+      "totalTimeSpent": 76,
+      "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis."
+    },
+    {
+      "id": "e17d38fa-16b5-462e-80c0-c1d82fa27545",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "assignationDate": "2017-01-23",
+      "totalTimeSpent": 50,
+      "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+    },
+    {
+      "id": "1bc4a019-fbf1-44a9-afc4-f210f2143b90",
+      "taskId": "",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2016-08-19",
+      "totalTimeSpent": 26,
+      "description": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit."
+    },
+    {
+      "id": "8650c036-e43a-4b29-80a3-8b266b972647",
+      "taskId": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "assignationDate": "2016-05-23",
+      "totalTimeSpent": 15,
+      "description": "Aenean lectus. Pellentesque eget nunc."
+    },
+    {
+      "id": "71efd332-6f56-4389-8653-49af5def4f8e",
+      "taskId": "726b0baf-472c-4768-8143-7d2a58791a24",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "assignationDate": "2018-09-16",
+      "totalTimeSpent": 13,
+      "description": "Nulla ut erat id mauris vulputate elementum."
+    },
+    {
+      "id": "d92e5d35-1673-4b6c-ba25-8b1490717080",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "assignationDate": "2017-09-23",
+      "totalTimeSpent": 57,
+      "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": "40bcaecf-0865-48ba-bf26-9faaa7c4b60b",
+      "taskId": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "assignationDate": "2018-11-22",
+      "totalTimeSpent": 47,
+      "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+    },
+    {
+      "id": "26c409a9-d677-426b-9057-60cb6f04cd34",
+      "taskId": "741c0035-c81d-4457-a560-a004a141322d",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "assignationDate": "2017-12-22",
+      "totalTimeSpent": 31,
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+    },
+    {
+      "id": "e2f57c3e-cf3c-4984-a7d4-1fb5c897bd43",
+      "taskId": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "assignationDate": "2018-07-07",
+      "totalTimeSpent": 20,
+      "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum."
+    }
+  ],
+  "timeSheets": [
+    {
+      "id": "696a85d8-6f68-4dbc-89ca-29bd849e581c",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "startTime": "2018-04-14",
+      "stopTime": "2017-09-30"
+    },
+    {
+      "id": "625db557-f637-41a0-83fc-5ad4fdea723a",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "startTime": "2017-11-07",
+      "stopTime": "2017-05-24"
+    },
+    {
+      "id": "e449eb18-e6cb-44c3-93e5-d38147444f4b",
+      "taskId": "1a5112ca-9d7c-4c7e-90f5-fb2464361045",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2017-11-03",
+      "stopTime": "2019-01-18"
+    },
+    {
+      "id": "1098713b-134a-4906-9c85-908214b4498b",
+      "taskId": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "startTime": "2019-04-04",
+      "stopTime": "2019-04-23"
+    },
+    {
+      "id": "02e95e55-eeba-413f-a787-5da9e9593363",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2019-12-10",
+      "stopTime": "2019-09-06"
+    },
+    {
+      "id": "ebc928a3-5438-4ee8-b0a0-a0245b081745",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "startTime": "2019-08-28",
+      "stopTime": "2018-11-29"
+    },
+    {
+      "id": "4c24615b-9ef0-4446-9455-5510d2c80e94",
+      "taskId": "9944c743-298d-4535-8daf-790e0511c9e4",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "startTime": "2018-05-12",
+      "stopTime": "2019-05-09"
+    },
+    {
+      "id": "04ee1bd3-8cee-4e7a-8049-dd66e532b3be",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "",
+      "startTime": "2017-03-23",
+      "stopTime": "2018-11-22"
+    },
+    {
+      "id": "4795cf93-c3ca-4885-94b4-7d498f1b852c",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "startTime": "2019-09-20",
+      "stopTime": "2018-12-02"
+    },
+    {
+      "id": "e440e15a-2e05-4ffa-946a-73b3b59500ae",
+      "taskId": "4d7b8a07-ab97-4621-8237-98f0372a1f6a",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "startTime": "2018-04-08",
+      "stopTime": "2019-09-25"
+    },
+    {
+      "id": "abdb56f7-6d20-47c4-b46b-313ddfc21088",
+      "taskId": "9c95384e-317c-4aeb-b68b-b20d8487b79f",
+      "employeeId": "f8570e46-0330-4705-b0b6-39c639b1816e",
+      "startTime": "2019-03-05",
+      "stopTime": "2018-04-07"
+    },
+    {
+      "id": "8b326a66-bb83-4228-9771-cc49a5a19a35",
+      "taskId": "0a8e38ba-a9de-4f31-a138-6c91be0c7a69",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "startTime": "2018-04-04",
+      "stopTime": "2020-02-02"
+    },
+    {
+      "id": "270196d1-e3bb-4c83-af7b-d7313056ad42",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2017-07-11",
+      "stopTime": "2018-07-25"
+    },
+    {
+      "id": "81b0c126-4e5a-4898-bcd4-f5ac377d8445",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "startTime": "2019-02-20",
+      "stopTime": "2019-10-02"
+    },
+    {
+      "id": "8d887c26-a219-4e34-9916-0a03ed0b0b34",
+      "taskId": "ac2cc1fe-339d-4efb-b1d0-a1cb94c63abd",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2017-07-03",
+      "stopTime": "2019-07-23"
+    },
+    {
+      "id": "5eebf12c-36e0-42d4-b016-5012266133aa",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "560ba238-f697-4ae7-99b4-b85c2cd0f05e",
+      "startTime": "2018-07-15",
+      "stopTime": "2018-04-01"
+    },
+    {
+      "id": "a9d38038-db57-4650-b93f-7d7b6ea5bb85",
+      "taskId": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
+      "employeeId": "fa5d00b5-aa59-4dfd-9baf-eea87566e52f",
+      "startTime": "2019-02-28",
+      "stopTime": "2019-03-05"
+    },
+    {
+      "id": "8d5d7821-96f8-4c3c-822d-d53d2f1c3d16",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2019-07-07",
+      "stopTime": "2017-03-03"
+    },
+    {
+      "id": "e22f62a7-f334-4700-bd39-55afdef29af6",
+      "taskId": "741c0035-c81d-4457-a560-a004a141322d",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "startTime": "2018-04-12",
+      "stopTime": "2019-07-31"
+    },
+    {
+      "id": "34d7a421-c308-492d-867c-4d7799b0179b",
+      "taskId": "9944c743-298d-4535-8daf-790e0511c9e4",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2019-09-05",
+      "stopTime": "2017-11-18"
+    },
+    {
+      "id": "42d812a8-3c81-47d8-bce5-3bd819e67e7d",
+      "taskId": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2019-09-18",
+      "stopTime": "2019-11-16"
+    },
+    {
+      "id": "527d689e-f596-4142-97dc-e1bd67a50fb1",
+      "taskId": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2017-10-24",
+      "stopTime": "2019-10-05"
+    },
+    {
+      "id": "e0b41f91-433e-40d2-91bd-2e498124966f",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "startTime": "2017-05-22",
+      "stopTime": "2019-07-16"
+    },
+    {
+      "id": "42d8c8b2-717d-45c3-bc49-31360ef33420",
+      "taskId": "726b0baf-472c-4768-8143-7d2a58791a24",
+      "employeeId": "aa265d8b-2439-4d68-9b82-f74eeb295cbe",
+      "startTime": "2019-04-29",
+      "stopTime": "2019-02-17"
+    },
+    {
+      "id": "36cc78f6-e5eb-448b-9e7d-6835a3c86a28",
+      "taskId": "81ed8454-6ece-49ea-a2d6-83a4ef61e48d",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "startTime": "2017-08-28",
+      "stopTime": "2020-02-07"
+    },
+    {
+      "id": "669eb506-ede0-4887-bf22-1a05c172fa95",
+      "taskId": "c3c741d2-c885-4643-a993-12d7ec8daaca",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2020-01-28",
+      "stopTime": "2017-07-27"
+    },
+    {
+      "id": "18225f66-05aa-4714-b929-fe428fe2400e",
+      "taskId": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
+      "employeeId": "",
+      "startTime": "2017-12-05",
+      "stopTime": "2019-08-16"
+    },
+    {
+      "id": "c2f1fa23-3b72-4218-94d0-2a7548d8246e",
+      "taskId": "",
+      "employeeId": "",
+      "startTime": "2018-02-24",
+      "stopTime": "2018-01-27"
+    },
+    {
+      "id": "0f175178-50e8-48a3-beab-9b0f55c606dd",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2018-08-06",
+      "stopTime": "2018-08-03"
+    },
+    {
+      "id": "fe919dc7-777b-473c-ad3e-3ca40662cca5",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2020-02-15",
+      "stopTime": "2018-11-02"
+    },
+    {
+      "id": "b13ff3ea-c821-4398-96df-f0fa1b63f3a5",
+      "taskId": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "startTime": "2018-06-20",
+      "stopTime": "2019-08-03"
+    },
+    {
+      "id": "04bad179-f47a-428c-99e7-c3ab6a420055",
+      "taskId": "17fc0f01-92b6-4364-8486-9e68450471a2",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "startTime": "2017-12-28",
+      "stopTime": "2019-01-15"
+    },
+    {
+      "id": "d3ea80f1-0615-4b20-b489-10240c906ccf",
+      "taskId": "4ddd8209-00ef-4f5e-bf87-733957fbaa08",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "startTime": "2018-07-23",
+      "stopTime": "2018-10-08"
+    },
+    {
+      "id": "9378f180-07a3-40e7-9f76-e9007e1d9926",
+      "taskId": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2018-07-18",
+      "stopTime": "2019-11-19"
+    },
+    {
+      "id": "d5c645b6-3980-4d29-86af-5f949ec9c082",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "startTime": "2017-09-06",
+      "stopTime": "2017-12-01"
+    },
+    {
+      "id": "66b62d0a-2f7e-401a-bcf8-e779ff6ff335",
+      "taskId": "0a8e38ba-a9de-4f31-a138-6c91be0c7a69",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2019-04-09",
+      "stopTime": "2020-02-26"
+    },
+    {
+      "id": "6a83e2f6-57eb-4d37-b497-0bfe441de8c4",
+      "taskId": "9c95384e-317c-4aeb-b68b-b20d8487b79f",
+      "employeeId": "",
+      "startTime": "2018-02-10",
+      "stopTime": "2018-02-24"
+    },
+    {
+      "id": "ce4163f3-1ca2-48f6-b3dc-58c5220454c0",
+      "taskId": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "startTime": "2019-02-05",
+      "stopTime": "2020-03-04"
+    },
+    {
+      "id": "b674e357-7dd1-4b07-849d-74d3b9ee5c07",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "startTime": "2017-10-17",
+      "stopTime": "2017-05-16"
+    },
+    {
+      "id": "ccdf542b-21e9-4069-9007-14e2c20f984f",
+      "taskId": "5610b160-6064-407e-9106-de9744b99728",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "startTime": "2018-11-12",
+      "stopTime": "2019-05-17"
+    },
+    {
+      "id": "19503fea-f6f3-44ce-afef-89f0d89d542b",
+      "taskId": "4d7b8a07-ab97-4621-8237-98f0372a1f6a",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2019-01-27",
+      "stopTime": "2017-12-26"
+    },
+    {
+      "id": "53a04e2c-d84a-4a21-ba54-04dd62aadf4d",
+      "taskId": "4c345772-024d-4760-a713-608a84edabd9",
+      "employeeId": "d592a7bf-a644-4985-ad27-0a7f94f294d1",
+      "startTime": "2018-12-22",
+      "stopTime": "2017-10-29"
+    },
+    {
+      "id": "efebaa7b-d908-416f-85ab-3970a6a85df2",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "startTime": "2020-02-27",
+      "stopTime": "2018-07-24"
+    },
+    {
+      "id": "675058db-f9e6-43d0-a5cf-646fb6c11f5b",
+      "taskId": "",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2018-11-04",
+      "stopTime": "2020-01-19"
+    },
+    {
+      "id": "2b28ffe4-bc65-492c-82f2-f8c738eefc03",
+      "taskId": "4945ccb4-f650-4f5c-adc3-267e1f2c834c",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "startTime": "2017-04-06",
+      "stopTime": "2017-09-23"
+    },
+    {
+      "id": "ae1fe332-2b7c-4611-9979-7eb12c556214",
+      "taskId": "726b0baf-472c-4768-8143-7d2a58791a24",
+      "employeeId": "c2d97623-fb03-4888-9075-8f9bd367e68c",
+      "startTime": "2018-08-11",
+      "stopTime": "2017-12-15"
+    },
+    {
+      "id": "4c6e7d96-ab7b-4a8d-816a-5c4ece5dec35",
+      "taskId": "ca352fab-0bc2-425d-bd51-15ffefb86671",
+      "employeeId": "7f7061e7-9748-4b56-8985-93301ff39570",
+      "startTime": "2019-03-23",
+      "stopTime": "2017-12-05"
+    },
+    {
+      "id": "2f506a12-5c8f-4395-a312-8e2f3a510f43",
+      "taskId": "f64c466c-f28d-4711-b56e-a5a163cfe2e1",
+      "employeeId": "9847585d-2168-4eb2-8e3c-b8bde5f48a6d",
+      "startTime": "2019-01-16",
+      "stopTime": "2018-11-22"
+    },
+    {
+      "id": "3a246841-dfce-4ac1-9001-38e066213304",
+      "taskId": "741c0035-c81d-4457-a560-a004a141322d",
+      "employeeId": "71acdf78-679d-4057-b9e9-4ab3a2726ed7",
+      "startTime": "2019-11-05",
+      "stopTime": "2019-03-04"
+    },
+    {
+      "id": "d54276d6-a29a-4157-8f9c-cfa4ce70434e",
+      "taskId": "6a5a0d76-af40-4782-8808-8d38dc9dc18d",
+      "employeeId": "093e46cd-b844-4097-b300-0aad8fa49c52",
+      "startTime": "2019-06-09",
+      "stopTime": "2018-06-13"
     }
   ]
 }
